@@ -2,7 +2,7 @@
   "DatasetName": "default.cds",
   "EntityName": "Tasks",
   "environmentVariableName": "",
-  "InstanceUrl": "https://org186390ca.crm6.dynamics.com/",
+  "InstanceUrl": "https://org8efcd196.crm6.dynamics.com/",
   "LocalReferenceDSJson": {
     "entitySetName": "tasks",
     "logicalName": "task"
