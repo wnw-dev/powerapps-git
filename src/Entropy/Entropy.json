@@ -59,7 +59,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "08/29/2024 07:46:40",
+  "HeaderLastSavedDateTimeUTC": "08/30/2024 04:15:23",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -68,7 +68,7 @@
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {
-    "Accounts": 44,
+    "Accounts": 47,
     "Accounts\\account_accountcategorycode": 13,
     "Accounts\\account_accountclassificationcode": 14,
     "Accounts\\account_accountratingcode": 15,
@@ -104,13 +104,17 @@
     "Accounts\\account_statecode": 33,
     "Accounts\\account_statuscode": 34,
     "Accounts\\account_territorycode": 32,
-    "Accounts\\default.cds_account_views": 42,
-    "ComboBoxSample": 46,
-    "CustomGallerySample": 45,
-    "Tasks": 47,
+    "Accounts\\default.cds_account_views": 44,
+    "Client_records": 51,
+    "Client_records\\crb94_client_records_statecode": 42,
+    "Client_records\\crb94_client_records_statuscode": 43,
+    "Client_records\\default.cds_crb94_client_records_views": 46,
+    "ComboBoxSample": 49,
+    "CustomGallerySample": 48,
+    "Tasks": 50,
     "Tasks\\activitypointer_activitytypecode": 38,
     "Tasks\\activitypointer_isregularactivity": 36,
-    "Tasks\\default.cds_task_views": 43,
+    "Tasks\\default.cds_task_views": 45,
     "Tasks\\task_isbilled": 35,
     "Tasks\\task_isworkflowcreated": 37,
     "Tasks\\task_prioritycode": 39,
@@ -248,7 +252,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.4502154,
+    "AnalysisLoadTime": 0.5850392,
     "ControlCount": {
       "form": 1,
       "gallery": 1,
@@ -260,7 +264,7 @@
       "text": 7,
       "typedDataCard": 6
     },
-    "DeserializationLoadTime": 2.1574642
+    "DeserializationLoadTime": 3.2528252
   },
   "WasLocalDatabaseReferencesEmpty": false
 }

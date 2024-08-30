@@ -55,12 +55,14 @@
             BorderStyle: =BorderStyle.Solid
             DataField: ="address1_line1"
             Default: |-
-                =ThisItem.'Address 1: Street 1'
+                =ThisItem.'地址 1: 街道 1'
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,address1_line1)
+            DisplayName: |-
+                =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'地址 1: 街道 1')
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, address1_line1)
+            MaxLength: |-
+                =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, '地址 1: 街道 1')
             Required: =false
             Update: =DataCardValue9.Text
             Width: =640
@@ -129,12 +131,14 @@
             BorderStyle: =BorderStyle.Solid
             DataField: ="address1_postalcode"
             Default: |-
-                =ThisItem.'Address 1: ZIP/Postal Code'
+                =ThisItem.'地址 1: 郵遞區號'
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,address1_postalcode)
+            DisplayName: |-
+                =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'地址 1: 郵遞區號')
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, address1_postalcode)
+            MaxLength: |-
+                =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, '地址 1: 郵遞區號')
             Required: =false
             Update: =DataCardValue10.Text
             Width: =640
@@ -202,9 +206,9 @@
         "'Annual Revenue_DataCard1' As typedDataCard.currencyEditCard":
             BorderStyle: =BorderStyle.Solid
             DataField: ="revenue"
-            Default: =ThisItem.'Annual Revenue'
+            Default: =ThisItem.年度營收
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,revenue)
+            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,年度營收)
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
             Required: =false
@@ -274,12 +278,12 @@
         "'Account Name_DataCard1' As typedDataCard.textualEditCard":
             BorderStyle: =BorderStyle.Solid
             DataField: ="name"
-            Default: =ThisItem.'Account Name'
+            Default: =ThisItem.客戶名稱
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,name)
+            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,客戶名稱)
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, name)
+            MaxLength: =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, 客戶名稱)
             Required: =true
             Update: =DataCardValue6.Text
             Width: =640
@@ -348,12 +352,14 @@
             BorderStyle: =BorderStyle.Solid
             DataField: ="address1_city"
             Default: |-
-                =ThisItem.'Address 1: City'
+                =ThisItem.'地址 1: 市/鎮'
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,address1_city)
+            DisplayName: |-
+                =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'地址 1: 市/鎮')
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, address1_city)
+            MaxLength: |-
+                =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, '地址 1: 市/鎮')
             Required: =false
             Update: =DataCardValue1.Text
             Width: =640
@@ -421,9 +427,9 @@
         "'Number of Employees_DataCard1' As typedDataCard.numberEditCard":
             BorderStyle: =BorderStyle.Solid
             DataField: ="numberofemployees"
-            Default: =ThisItem.'Number of Employees'
+            Default: =ThisItem.員工數
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,numberofemployees)
+            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,員工數)
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
             Required: =false
