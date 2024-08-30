@@ -57,10 +57,12 @@
             Default: |-
                 =ThisItem.'Address 1: Street 1'
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,address1_line1)
+            DisplayName: |-
+                =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'Address 1: Street 1')
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, address1_line1)
+            MaxLength: |-
+                =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, 'Address 1: Street 1')
             Required: =false
             Update: =DataCardValue9.Text
             Width: =640
@@ -131,10 +133,12 @@
             Default: |-
                 =ThisItem.'Address 1: ZIP/Postal Code'
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,address1_postalcode)
+            DisplayName: |-
+                =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'Address 1: ZIP/Postal Code')
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, address1_postalcode)
+            MaxLength: |-
+                =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, 'Address 1: ZIP/Postal Code')
             Required: =false
             Update: =DataCardValue10.Text
             Width: =640
@@ -204,7 +208,7 @@
             DataField: ="revenue"
             Default: =ThisItem.'Annual Revenue'
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,revenue)
+            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'Annual Revenue')
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
             Required: =false
@@ -276,10 +280,10 @@
             DataField: ="name"
             Default: =ThisItem.'Account Name'
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,name)
+            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'Account Name')
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, name)
+            MaxLength: =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, 'Account Name')
             Required: =true
             Update: =DataCardValue6.Text
             Width: =640
@@ -350,10 +354,12 @@
             Default: |-
                 =ThisItem.'Address 1: City'
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,address1_city)
+            DisplayName: |-
+                =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'Address 1: City')
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, address1_city)
+            MaxLength: |-
+                =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, 'Address 1: City')
             Required: =false
             Update: =DataCardValue1.Text
             Width: =640
@@ -423,7 +429,7 @@
             DataField: ="numberofemployees"
             Default: =ThisItem.'Number of Employees'
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,numberofemployees)
+            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'Number of Employees')
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
             Required: =false
