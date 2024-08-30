@@ -14,29 +14,39 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "FormScreen.Icon1.AccessibleLabel"
+                  "fullyQualifiedName": "BrowseScreen.BrowseGallery1.Items"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "FormScreen.Icon1.AccessibleLabel",
+                  "fullyQualifiedName": "BrowseScreen.BrowseGallery1.Items",
                   "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 52,
+                  "snippet": {
+                    "text": "客戶名稱"
+                  }
                 }
               },
               "properties": {
-                "member": "AccessibleLabel",
-                "module": "FormScreen",
-                "type": "FormScreen.Icon1"
+                "member": "Items",
+                "module": "BrowseScreen",
+                "type": "BrowseScreen.BrowseGallery1"
               }
             }
           ],
           "message": {
+            "arguments": [
+              "Search"
+            ],
             "id": "issue"
           },
           "properties": {
             "level": "Medium"
           },
-          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleId": "app-SuggestRemoteExecutionHint",
           "ruleIndex": 0
         },
         {
@@ -44,29 +54,39 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "FormScreen.Icon1.TabIndex"
+                  "fullyQualifiedName": "BrowseScreen.BrowseGallery1.Items"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "FormScreen.Icon1.TabIndex",
+                  "fullyQualifiedName": "BrowseScreen.BrowseGallery1.Items",
                   "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 52,
+                  "snippet": {
+                    "text": "客戶名稱"
+                  }
                 }
               },
               "properties": {
-                "member": "TabIndex",
-                "module": "FormScreen",
-                "type": "FormScreen.Icon1"
+                "member": "Items",
+                "module": "BrowseScreen",
+                "type": "BrowseScreen.BrowseGallery1"
               }
             }
           ],
           "message": {
+            "arguments": [
+              "客戶名稱"
+            ],
             "id": "issue"
           },
           "properties": {
-            "level": "Medium"
+            "level": "High"
           },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleId": "app-ErrColDNE-Name",
           "ruleIndex": 1
         },
         {
@@ -74,180 +94,1289 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.DataCardValue6.AccessibleLabel"
+                  "fullyQualifiedName": "BrowseScreen.BrowseGallery1.Items"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.DataCardValue6.AccessibleLabel",
+                  "fullyQualifiedName": "BrowseScreen.BrowseGallery1.Items",
                   "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 6,
+                  "charOffset": 14,
+                  "snippet": {
+                    "text": "Search"
+                  }
                 }
               },
               "properties": {
-                "member": "AccessibleLabel",
-                "module": "FormScreen",
-                "type": "FormScreen.EditForm1.'Account Name_DataCard1'.DataCardValue6"
+                "member": "Items",
+                "module": "BrowseScreen",
+                "type": "BrowseScreen.BrowseGallery1"
               }
             }
           ],
           "message": {
+            "arguments": [
+              "Search"
+            ],
             "id": "issue"
           },
           "properties": {
-            "level": "Medium"
+            "level": "High"
           },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
         },
         {
           "locations": [
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: Street 1_DataCard1'.DataCardValue9.AccessibleLabel"
+                  "fullyQualifiedName": "BrowseScreen.BrowseGallery1.Title2.Text"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: Street 1_DataCard1'.DataCardValue9.AccessibleLabel",
+                  "fullyQualifiedName": "BrowseScreen.BrowseGallery1.Title2.Text",
                   "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".客戶名稱"
+                  }
                 }
               },
               "properties": {
-                "member": "AccessibleLabel",
-                "module": "FormScreen",
-                "type": "FormScreen.EditForm1.'Address 1: Street 1_DataCard1'.DataCardValue9"
+                "member": "Text",
+                "module": "BrowseScreen",
+                "type": "BrowseScreen.BrowseGallery1.Title2"
               }
             }
           ],
           "message": {
+            "arguments": [
+              "客戶名稱"
+            ],
             "id": "issue"
           },
           "properties": {
-            "level": "Medium"
+            "level": "High"
           },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 3
         },
         {
           "locations": [
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.DataCardValue1.AccessibleLabel"
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.DisplayName"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.DataCardValue1.AccessibleLabel",
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.DisplayName",
                   "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 54,
+                  "snippet": {
+                    "text": "客戶名稱"
+                  }
                 }
               },
               "properties": {
-                "member": "AccessibleLabel",
+                "member": "DisplayName",
                 "module": "FormScreen",
-                "type": "FormScreen.EditForm1.'Address 1: City_DataCard1'.DataCardValue1"
+                "type": "FormScreen.EditForm1.'Account Name_DataCard1'"
               }
             }
           ],
           "message": {
+            "arguments": [
+              "客戶名稱"
+            ],
             "id": "issue"
           },
           "properties": {
-            "level": "Medium"
+            "level": "High"
           },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
+          "ruleId": "app-ErrColDNE-Name",
+          "ruleIndex": 1
         },
         {
           "locations": [
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.DataCardValue10.AccessibleLabel"
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.DisplayName"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.DataCardValue10.AccessibleLabel",
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.DisplayName",
                   "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo"
+                  }
                 }
               },
               "properties": {
-                "member": "AccessibleLabel",
+                "member": "DisplayName",
                 "module": "FormScreen",
-                "type": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.DataCardValue10"
+                "type": "FormScreen.EditForm1.'Account Name_DataCard1'"
               }
             }
           ],
           "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
             "id": "issue"
           },
           "properties": {
-            "level": "Medium"
+            "level": "High"
           },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
         },
         {
           "locations": [
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "FormScreen.EditForm1.'Number of Employees_DataCard1'.DataCardValue7.AccessibleLabel"
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.DisplayName"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "FormScreen.EditForm1.'Number of Employees_DataCard1'.DataCardValue7.AccessibleLabel",
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.DisplayName",
                   "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 59,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,客戶名稱)"
+                  }
                 }
               },
               "properties": {
-                "member": "AccessibleLabel",
+                "member": "DisplayName",
                 "module": "FormScreen",
-                "type": "FormScreen.EditForm1.'Number of Employees_DataCard1'.DataCardValue7"
+                "type": "FormScreen.EditForm1.'Account Name_DataCard1'"
               }
             }
           ],
           "message": {
+            "arguments": [
+              "Text",
+              "Error"
+            ],
             "id": "issue"
           },
           "properties": {
-            "level": "Medium"
+            "level": "High"
           },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
+          "ruleId": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
+          "ruleIndex": 4
         },
         {
           "locations": [
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "FormScreen.EditForm1.'Annual Revenue_DataCard1'.DataCardValue13.AccessibleLabel"
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.Default"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "FormScreen.EditForm1.'Annual Revenue_DataCard1'.DataCardValue13.AccessibleLabel",
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.Default",
                   "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".客戶名稱"
+                  }
                 }
               },
               "properties": {
-                "member": "AccessibleLabel",
+                "member": "Default",
                 "module": "FormScreen",
-                "type": "FormScreen.EditForm1.'Annual Revenue_DataCard1'.DataCardValue13"
+                "type": "FormScreen.EditForm1.'Account Name_DataCard1'"
               }
             }
           ],
           "message": {
+            "arguments": [
+              "客戶名稱"
+            ],
             "id": "issue"
           },
           "properties": {
-            "level": "Medium"
+            "level": "High"
           },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 54,
+                  "snippet": {
+                    "text": "客戶名稱"
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Account Name_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "客戶名稱"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrColDNE-Name",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo"
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Account Name_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 59,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, 客戶名稱)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Account Name_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Number",
+              "Error"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: Street 1_DataCard1'.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: Street 1_DataCard1'.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 13,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".'地址 1: 街道 1'"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: Street 1_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "地址 1: 街道 1"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 54,
+                  "snippet": {
+                    "text": "'地址 1: 市/鎮'"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: City_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "地址 1: 市/鎮"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrColDNE-Name",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: City_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 66,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'地址 1: 市/鎮')"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: City_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text",
+              "Error"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 12,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".'地址 1: 市/鎮'"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: City_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "地址 1: 市/鎮"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 54,
+                  "snippet": {
+                    "text": "'地址 1: 市/鎮'"
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: City_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "地址 1: 市/鎮"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrColDNE-Name",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo"
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: City_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 66,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, '地址 1: 市/鎮')"
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: City_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Number",
+              "Error"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 12,
+                  "charOffset": 54,
+                  "snippet": {
+                    "text": "'地址 1: 郵遞區號'"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "地址 1: 郵遞區號"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrColDNE-Name",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 67,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'地址 1: 郵遞區號')"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text",
+              "Error"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 13,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".'地址 1: 郵遞區號'"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "地址 1: 郵遞區號"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 12,
+                  "charOffset": 54,
+                  "snippet": {
+                    "text": "'地址 1: 郵遞區號'"
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "地址 1: 郵遞區號"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrColDNE-Name",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo"
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.MaxLength"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.MaxLength",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 67,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, '地址 1: 郵遞區號')"
+                  }
+                }
+              },
+              "properties": {
+                "member": "MaxLength",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Number",
+              "Error"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Number of Employees_DataCard1'.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Number of Employees_DataCard1'.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 3,
+                  "charOffset": 54,
+                  "snippet": {
+                    "text": "員工數"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Number of Employees_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "員工數",
+              "fax"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrColumnDoesNotExist-Name-Similar",
+          "ruleIndex": 5
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Number of Employees_DataCard1'.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Number of Employees_DataCard1'.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Number of Employees_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Number of Employees_DataCard1'.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Number of Employees_DataCard1'.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 58,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,員工數)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Number of Employees_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text",
+              "Error"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Number of Employees_DataCard1'.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Number of Employees_DataCard1'.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".員工數"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Number of Employees_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "員工數"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Annual Revenue_DataCard1'.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Annual Revenue_DataCard1'.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 54,
+                  "snippet": {
+                    "text": "年度營收"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Annual Revenue_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "年度營收"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrColDNE-Name",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Annual Revenue_DataCard1'.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Annual Revenue_DataCard1'.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Annual Revenue_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "DataSourceInfo"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Annual Revenue_DataCard1'.DisplayName"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Annual Revenue_DataCard1'.DisplayName",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 59,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,年度營收)"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayName",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Annual Revenue_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text",
+              "Error"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Annual Revenue_DataCard1'.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Annual Revenue_DataCard1'.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 8,
+                  "snippet": {
+                    "text": ".年度營收"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Annual Revenue_DataCard1'"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "年度營收"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -277,7 +1406,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
+          "ruleIndex": 6
         },
         {
           "locations": [
@@ -307,7 +1436,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
+          "ruleIndex": 6
         },
         {
           "locations": [
@@ -337,7 +1466,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
+          "ruleIndex": 7
         },
         {
           "locations": [
@@ -367,7 +1496,247 @@
             "level": "Medium"
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
+          "ruleIndex": 7
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.Icon1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.Icon1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "FormScreen",
+                "type": "FormScreen.Icon1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 6
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.Icon1.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.Icon1.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "FormScreen",
+                "type": "FormScreen.Icon1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 7
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.DataCardValue6.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Account Name_DataCard1'.DataCardValue6.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Account Name_DataCard1'.DataCardValue6"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 6
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: Street 1_DataCard1'.DataCardValue9.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: Street 1_DataCard1'.DataCardValue9.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: Street 1_DataCard1'.DataCardValue9"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 6
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.DataCardValue1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: City_DataCard1'.DataCardValue1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: City_DataCard1'.DataCardValue1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 6
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.DataCardValue10.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.DataCardValue10.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Address 1: ZIP/Postal Code_DataCard1'.DataCardValue10"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 6
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Number of Employees_DataCard1'.DataCardValue7.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Number of Employees_DataCard1'.DataCardValue7.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Number of Employees_DataCard1'.DataCardValue7"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 6
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Annual Revenue_DataCard1'.DataCardValue13.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "FormScreen.EditForm1.'Annual Revenue_DataCard1'.DataCardValue13.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "FormScreen",
+                "type": "FormScreen.EditForm1.'Annual Revenue_DataCard1'.DataCardValue13"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 6
         }
       ],
       "tool": {
@@ -375,6 +1744,101 @@
           "fullName": "PowerApps app checker",
           "name": "PowerApps app checker",
           "rules": [
+            {
+              "id": "app-SuggestRemoteExecutionHint",
+              "messageStrings": {
+                "issue": {
+                  "text": "Delegation warning. The \"{0}\" part of this formula might not work correctly on large data sets."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "If your data set exceeds the 500 record limit but contains less than 2,000 records, try resetting the limit.",
+                  "Try simplifying the formula.",
+                  "Try moving your data to a different data source."
+                ],
+                "level": "Medium",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "app-ErrColDNE-Name",
+              "messageStrings": {
+                "issue": {
+                  "text": "The specified column '{0}' does not exist."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "app-ErrInvalidArgs-Func",
+              "messageStrings": {
+                "issue": {
+                  "text": "The function '{0}' has some invalid arguments."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "app-ErrInvalidName",
+              "messageStrings": {
+                "issue": {
+                  "text": "Name isn't valid. '{0}' isn't recognized."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "Remove or correct the reference to the name that isn't valid."
+                ],
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
+              "messageStrings": {
+                "issue": {
+                  "text": "Expected {0} value."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "Change the rule to produce a {0} value."
+                ],
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "app-ErrColumnDoesNotExist-Name-Similar",
+              "messageStrings": {
+                "issue": {
+                  "text": "The specified column '{0}' does not exist. The column with the most similar name is '{1}'."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
             {
               "id": "acc-AccessibleLabelNeeded",
               "messageStrings": {
