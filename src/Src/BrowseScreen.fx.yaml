@@ -66,7 +66,7 @@
     LblAppName1 As label:
         Height: =88
         Size: =27
-        Text: ="BROWSE_Test_Commit_Message"
+        Text: ="browse"
         Width: =Parent.Width - Self.X - IconSortUpDown1.Width - IconNewItem1.Width - IconRefresh1.Width
         Wrap: =false
         X: =20
