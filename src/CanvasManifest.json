@@ -12,7 +12,7 @@
   "Properties": {
     "AppCopilotSchemaName": "",
     "AppCreationSource": "AppFromScratch",
-    "AppDescription": "",
+    "AppDescription": "Test Version Note and Commit Message",
     "AppPreviewFlagsMap": {
       "aibuilderserviceenrollment": false,
       "allowmultiplescreensincanvaspages": false,
@@ -101,7 +101,7 @@
       "zeroalltabindexes": true
     },
     "Author": "",
-    "BindingErrorCount": 0,
+    "BindingErrorCount": 39,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "Phone",
