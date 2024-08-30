@@ -12,7 +12,7 @@
   "Properties": {
     "AppCopilotSchemaName": "",
     "AppCreationSource": "AppFromScratch",
-    "AppDescription": "",
+    "AppDescription": "Test Version Note and Commit Message",
     "AppPreviewFlagsMap": {
       "aibuilderserviceenrollment": false,
       "allowmultiplescreensincanvaspages": false,
@@ -131,7 +131,7 @@
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
-    "UserLocale": "zh-CN"
+    "UserLocale": "en-US"
   },
   "ScreenOrder": [
     "BrowseScreen",

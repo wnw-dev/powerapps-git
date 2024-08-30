@@ -2,7 +2,7 @@
   "DatasetName": "default.cds",
   "EntityName": "Client_records",
   "environmentVariableName": "",
-  "InstanceUrl": "https://quanyi.crm6.dynamics.com/",
+  "InstanceUrl": "https://org186390ca.crm6.dynamics.com/",
   "state": "Configured",
   "TableDefinition": {
     "BooleanOptionSetAttribute": "{\"@odata.context\":\"https://christinehuang.crm6.dynamics.com/api/data/v9.0/$metadata#EntityDefinitions('crb94_client_records')/Attributes/Microsoft.Dynamics.CRM.BooleanAttributeMetadata(MetadataId,LogicalName,SchemaName,DisplayName,OptionSet())\",\"value\":[]}",
