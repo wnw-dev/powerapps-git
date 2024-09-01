@@ -1,0 +1,97 @@
+[
+  {
+    "CdsFCBContext": "{\"FileType\":true,\"ImageExternalStorage\":true}",
+    "EntitySetName": "cr5f5_testupdates",
+    "IsHidden": false,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "LogicalName": "cr5f5_testupdate",
+    "Name": "TEST UPDATE",
+    "NativeCDSDataSourceInfoNameMapping": {
+      "_ownerid_value": "負責人",
+      "cr5f5_gender": "GENDER",
+      "cr5f5_id": "ID",
+      "cr5f5_testupdate_AsyncOperations": "系統作業",
+      "cr5f5_testupdate_BulkDeleteFailures": "大量刪除失敗",
+      "cr5f5_testupdate_DuplicateBaseRecord": "重複資料記錄 (cr5f5_testupdate_DuplicateBaseRecord)",
+      "cr5f5_testupdate_DuplicateMatchingRecord": "重複資料記錄 (cr5f5_testupdate_DuplicateMatchingRecord)",
+      "cr5f5_testupdate_MailboxTrackingFolders": "信箱自動追蹤資料夾",
+      "cr5f5_testupdate_PrincipalObjectAttributeAccesses": "欄位共用",
+      "cr5f5_testupdate_ProcessSession": "程序工作階段",
+      "cr5f5_testupdate_SyncErrors": "同步處理錯誤",
+      "cr5f5_testupdateid": "TEST UPDATE",
+      "createdby": "建立者",
+      "createdon": "建立時間",
+      "createdonbehalfby": "建立者 (代理人)",
+      "importsequencenumber": "匯入序號",
+      "modifiedby": "修改者",
+      "modifiedon": "修改日期",
+      "modifiedonbehalfby": "修改者 (代理人)",
+      "overriddencreatedon": "記錄建立時間",
+      "owningbusinessunit": "擁有業務單位",
+      "owningteam": "擁有團隊",
+      "owninguser": "擁有使用者",
+      "statecode": "狀態",
+      "statuscode": "狀態原因",
+      "timezoneruleversionnumber": "時區規則版本號碼",
+      "utcconversiontimezonecode": "UTC 轉換時區代碼",
+      "versionnumber": "版本號碼"
+    },
+    "PreferredName": "TEST UPDATE",
+    "Type": "NativeCDSDataSourceInfo"
+  },
+  {
+    "DisplayName": "TEST UPDATE (檢視表)",
+    "Name": "_cr5f5_testupdate_views",
+    "RelatedEntityName": "TEST UPDATE",
+    "TrimmedViewName": true,
+    "Type": "ViewInfo",
+    "ViewInfoNameMapping": {
+      "0681700f-b966-474c-9250-724242053ea1": "TEST UPDATE查詢檢視表",
+      "11cb1eb0-59f8-4a31-936e-f8d35a71152a": "TEST UPDATE進階尋找檢視表",
+      "4cc080a1-020f-4d61-b4dc-7a0a946af017": "非使用中 TEST UPDATE",
+      "bba84ea4-e193-4924-a97f-c246b4edb275": "使用中 TEST UPDATE",
+      "d00d1043-bbca-471b-8a9f-64f82ab42979": "TEST UPDATE相關檢視"
+    }
+  },
+  {
+    "DisplayName": "狀態 (TEST UPDATE)",
+    "Name": "cr5f5_testupdate_statecode",
+    "OptionSetInfoNameMapping": {
+      "0": "使用中",
+      "1": "非使用中"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statecode",
+        "OptionSetReferenceEntityName": "TEST UPDATE"
+      }
+    },
+    "OptionSetTypeKey": "StateType",
+    "RelatedColumnInvariantName": "statecode",
+    "RelatedEntityName": "TEST UPDATE",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "狀態原因 (TEST UPDATE)",
+    "Name": "cr5f5_testupdate_statuscode",
+    "OptionSetInfoNameMapping": {
+      "1": "使用中",
+      "2": "非使用中"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statuscode",
+        "OptionSetReferenceEntityName": "TEST UPDATE"
+      }
+    },
+    "OptionSetTypeKey": "StatusType",
+    "RelatedColumnInvariantName": "statuscode",
+    "RelatedEntityName": "TEST UPDATE",
+    "Type": "OptionSetInfo"
+  }
+]

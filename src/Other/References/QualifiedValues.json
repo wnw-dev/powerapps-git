@@ -118,6 +118,13 @@
         "快速窗体": "1fac7e2e-0b1c-4b6c-ab92-8af0f92dbdbc",
         "信息": "b62ce022-cc0f-4c8c-bb29-21948f70dc74"
       }
+    },
+    {
+      "Kind": "default.cds_cr5f5_testupdate_forms",
+      "Namespace": "TEST UPDATE (表單)",
+      "Values": {
+        "資訊": "48824ed9-3fe6-428c-ae7b-d08779930a9d"
+      }
     }
   ]
 }
