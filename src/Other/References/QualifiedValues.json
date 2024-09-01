@@ -63,6 +63,13 @@
       "Values": {
         "資訊": "62ba009f-2617-4a2c-b8c6-eab0ad4c6517"
       }
+    },
+    {
+      "Kind": "default.cds_cr5f5_newtable_forms",
+      "Namespace": "New tables (Forms)",
+      "Values": {
+        "資訊": "3d87f269-db3a-41e0-89cb-e09b22d6fcf5"
+      }
     }
   ]
 }
