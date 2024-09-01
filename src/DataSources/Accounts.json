@@ -9,186 +9,185 @@
     "MaxGetRowsCount": 500,
     "Name": "Accounts",
     "NativeCDSDataSourceInfoNameMapping": {
-      "_ownerid_value": "負責人",
+      "_ownerid_value": "负责人",
       "{Attachments}": "Attachments",
-      "account_actioncard": "動作卡",
-      "Account_ActivityPointers": "活動",
-      "account_adx_inviteredemptions": "邀請兌換",
-      "account_adx_portalcomments": "入口網站留言",
-      "Account_Annotation": "附註",
-      "Account_Appointments": "約會",
-      "Account_AsyncOperations": "系統作業",
-      "Account_BulkDeleteFailures": "大量刪除失敗",
+      "account_actioncard": "操作卡",
+      "Account_ActivityPointers": "活动",
+      "account_adx_inviteredemptions": "邀请兑现",
+      "account_adx_portalcomments": "门户评论",
+      "Account_Annotation": "注释",
+      "Account_Appointments": "约会",
+      "Account_AsyncOperations": "系统作业",
+      "Account_BulkDeleteFailures": "批量删除失败",
       "account_chats": "Teams 聊天",
-      "account_connections1": "關係 (account_connections1)",
-      "account_connections2": "關係 (account_connections2)",
+      "account_connections1": "连接 (account_connections1)",
+      "account_connections2": "连接 (account_connections2)",
       "Account_CustomerAddress": "地址",
-      "Account_DuplicateBaseRecord": "重複資料記錄 (Account_DuplicateBaseRecord)",
-      "Account_DuplicateMatchingRecord": "重複資料記錄 (Account_DuplicateMatchingRecord)",
-      "Account_Email_EmailSender": "電子郵件訊息 (Account_Email_EmailSender)",
-      "Account_Email_SendersAccount": "電子郵件訊息 (Account_Email_SendersAccount)",
-      "Account_Emails": "電子郵件訊息 (Account_Emails)",
-      "Account_Faxes": "傳真 (Account_Faxes)",
+      "Account_DuplicateBaseRecord": "重复记录 (Account_DuplicateBaseRecord)",
+      "Account_DuplicateMatchingRecord": "重复记录 (Account_DuplicateMatchingRecord)",
+      "Account_Email_EmailSender": "电子邮件 (Account_Email_EmailSender)",
+      "Account_Email_SendersAccount": "电子邮件 (Account_Email_SendersAccount)",
+      "Account_Emails": "电子邮件 (Account_Emails)",
+      "Account_Faxes": "传真 (Account_Faxes)",
       "Account_Letters": "信件",
-      "Account_MailboxTrackingFolder": "信箱自動追蹤資料夾",
-      "account_master_account": "客戶 (account_master_account)",
-      "account_parent_account": "客戶 (account_parent_account)",
-      "Account_Phonecalls": "通話",
-      "account_PostFollows": "追蹤 ",
-      "account_PostRegardings": "相關張貼",
-      "account_principalobjectattributeaccess": "欄位共用",
-      "Account_ProcessSessions": "程序工作階段",
-      "Account_RecurringAppointmentMasters": "週期性約會",
-      "account_sample_donations": "Donations",
-      "Account_SharepointDocumentLocation": "文件位置",
-      "Account_SyncErrors": "同步處理錯誤",
-      "Account_Tasks": "工作",
-      "accountcategorycode": "類別",
-      "accountclassificationcode": "分類",
-      "accountid": "客戶 (accountid)",
-      "accountnumber": "客戶編碼",
-      "accountratingcode": "客戶評等",
-      "address1_addresstypecode": "地址 1: 地址類型",
-      "address1_city": "地址 1: 市/鎮",
+      "Account_MailboxTrackingFolder": "邮箱自动跟踪文件夹",
+      "account_master_account": "客户 (account_master_account)",
+      "account_parent_account": "客户 (account_parent_account)",
+      "Account_Phonecalls": "电话联络",
+      "account_PostFollows": "关注",
+      "account_PostRegardings": "公告相关项",
+      "account_principalobjectattributeaccess": "字段共享",
+      "Account_ProcessSessions": "进程会话",
+      "Account_RecurringAppointmentMasters": "定期约会",
+      "Account_SharepointDocumentLocation": "文档位置",
+      "Account_SyncErrors": "同步错误",
+      "Account_Tasks": "任务​​",
+      "accountcategorycode": "类别",
+      "accountclassificationcode": "分类",
+      "accountid": "客户 (accountid)",
+      "accountnumber": "客户编号",
+      "accountratingcode": "客户等级",
+      "address1_addresstypecode": "地址 1: 地址类型",
+      "address1_city": "地址 1: 市/县",
       "address1_composite": "地址 1",
-      "address1_country": "地址 1: 國家/地區",
-      "address1_county": "地址 1: 縣市",
-      "address1_fax": "地址 1: 傳真",
-      "address1_freighttermscode": "地址 1: 運費條件",
-      "address1_latitude": "地址 1: 緯度",
+      "address1_country": "地址 1: 国家/地区",
+      "address1_county": "地址 1: 县",
+      "address1_fax": "地址 1: 传真",
+      "address1_freighttermscode": "地址 1: 货运条款",
+      "address1_latitude": "地址 1: 纬度",
       "address1_line1": "地址 1: 街道 1",
       "address1_line2": "地址 1: 街道 2",
       "address1_line3": "地址 1: 街道 3",
-      "address1_longitude": "地址 1: 經度",
-      "address1_name": "地址 1: 姓名",
-      "address1_postalcode": "地址 1: 郵遞區號",
-      "address1_postofficebox": "地址 1: 郵政信箱",
-      "address1_primarycontactname": "地址 1: 主要連絡人姓名",
-      "address1_shippingmethodcode": "地址 1: 運送方式",
-      "address1_stateorprovince": "地址 1: 縣/市",
-      "address1_telephone1": "地址電話",
-      "address1_telephone2": "地址 1: 電話 2",
-      "address1_telephone3": "地址 1: 電話 3",
-      "address1_upszone": "地址 1: 優比速 (UPS) 區域",
-      "address1_utcoffset": "地址 1: UTC 時區差距",
-      "address2_addresstypecode": "地址 2: 地址類型",
-      "address2_city": "地址 2: 市/鎮",
+      "address1_longitude": "地址 1: 经度",
+      "address1_name": "地址 1: 名称",
+      "address1_postalcode": "地址 1: 邮政编码",
+      "address1_postofficebox": "地址 1: 邮政信箱",
+      "address1_primarycontactname": "地址 1: 主要联系人姓名",
+      "address1_shippingmethodcode": "地址 1: 送货方式",
+      "address1_stateorprovince": "地址 1: 省/市/自治区",
+      "address1_telephone1": "联络电话",
+      "address1_telephone2": "地址 1: 电话 2",
+      "address1_telephone3": "地址 1: 电话 3",
+      "address1_upszone": "地址 1: UPS 区域",
+      "address1_utcoffset": "地址 1: UTC 时差",
+      "address2_addresstypecode": "地址 2: 地址类型",
+      "address2_city": "地址 2: 市/县",
       "address2_composite": "地址 2",
-      "address2_country": "地址 2: 國家/地區",
-      "address2_county": "地址 2: 縣市",
-      "address2_fax": "地址 2: 傳真",
-      "address2_freighttermscode": "地址 2: 運費條件",
-      "address2_latitude": "地址 2: 緯度",
+      "address2_country": "地址 2: 国家/地区",
+      "address2_county": "地址 2: 县",
+      "address2_fax": "地址 2: 传真",
+      "address2_freighttermscode": "地址 2: 货运条款",
+      "address2_latitude": "地址 2: 纬度",
       "address2_line1": "地址 2: 街道 1",
       "address2_line2": "地址 2: 街道 2",
       "address2_line3": "地址 2: 街道 3",
-      "address2_longitude": "地址 2: 經度",
-      "address2_name": "地址 2: 姓名",
-      "address2_postalcode": "地址 2: 郵遞區號",
-      "address2_postofficebox": "地址 2: 郵政信箱",
-      "address2_primarycontactname": "地址 2: 主要連絡人姓名",
-      "address2_shippingmethodcode": "地址 2: 運送方式",
-      "address2_stateorprovince": "地址 2: 縣/市",
-      "address2_telephone1": "地址 2: 電話 1",
-      "address2_telephone2": "地址 2: 電話 2",
-      "address2_telephone3": "地址 2: 電話 3",
-      "address2_upszone": "地址 2: 優比速 (UPS) 區域",
-      "address2_utcoffset": "地址 2: UTC 時區差距",
+      "address2_longitude": "地址 2: 经度",
+      "address2_name": "地址 2: 名称",
+      "address2_postalcode": "地址 2: 邮政编码",
+      "address2_postofficebox": "地址 2: 邮政信箱",
+      "address2_primarycontactname": "地址 2: 主要联系人姓名",
+      "address2_shippingmethodcode": "地址 2: 送货方式",
+      "address2_stateorprovince": "地址 2: 省/市/自治区",
+      "address2_telephone1": "地址 2: 电话 1",
+      "address2_telephone2": "地址 2: 电话 2",
+      "address2_telephone3": "地址 2: 电话 3",
+      "address2_upszone": "地址 2: UPS 区域",
+      "address2_utcoffset": "地址 2: UTC 时差",
       "adx_createdbyipaddress": "Created By (IP Address)",
       "adx_createdbyusername": "Created By (User Name)",
-      "adx_invitation_assigntoaccount": "邀請",
+      "adx_invitation_assigntoaccount": "邀请",
       "adx_modifiedbyipaddress": "Modified By (IP Address)",
       "adx_modifiedbyusername": "Modified By (User Name)",
-      "aging30": "過時 30 天",
-      "aging30_base": "過時 30 天 (基準貨幣)",
-      "aging60": "過時 60 天",
-      "aging60_base": "過時 60 天 (基準貨幣)",
-      "aging90": "過時 90 天",
-      "aging90_base": "過時 90 天 (基準貨幣)",
-      "businesstypecode": "業務類型",
-      "contact_customer_accounts": "連絡人 (contact_customer_accounts)",
-      "createdby": "建立者",
-      "createdon": "建立時間",
-      "createdonbehalfby": "建立者 (代理人)",
-      "creditlimit": "信用額度",
-      "creditlimit_base": "信用額度 (基準貨幣)",
-      "creditonhold": "信用凍結",
-      "customersizecode": "客戶規模",
-      "customertypecode": "關聯類型",
-      "description": "描述",
-      "donotbulkemail": "不允許大量電子郵件 (donotbulkemail)",
-      "donotbulkpostalmail": "不允許大量電子郵件 (donotbulkpostalmail)",
-      "donotemail": "不允許電子郵件",
-      "donotfax": "不允許傳真",
-      "donotphone": "不允許通話",
-      "donotpostalmail": "不允許郵件",
-      "donotsendmm": "傳送行銷資料",
-      "emailaddress1": "電子郵件",
-      "emailaddress2": "電子郵件地址 2",
-      "emailaddress3": "電子郵件地址 3",
-      "entityimage": "預設影像",
-      "entityimageid": "實體影像識別碼",
-      "exchangerate": "匯率",
-      "fax": "傳真 (fax)",
-      "followemail": "追隨電子郵件活動",
-      "ftpsiteurl": "FTP 站台",
-      "importsequencenumber": "匯入序號",
-      "industrycode": "產業",
-      "lastonholdtime": "上次保留時間",
-      "lastusedincampaign": "上次參加行銷活動的日期",
-      "marketcap": "市場資本額",
-      "marketcap_base": "市場資本額 (基準貨幣)",
-      "marketingonly": "僅限行銷",
-      "masterid": "主要識別碼",
-      "merged": "已合併",
+      "aging30": "时效 30",
+      "aging30_base": "时效 30 (基础货币)",
+      "aging60": "时效 60",
+      "aging60_base": "时效 60 (基础货币)",
+      "aging90": "时效 90",
+      "aging90_base": "时效 90 (基础货币)",
+      "businesstypecode": "商业类型",
+      "contact_customer_accounts": "联系人 (contact_customer_accounts)",
+      "createdby": "创建者",
+      "createdon": "创建时间",
+      "createdonbehalfby": "创建者(代理)",
+      "creditlimit": "信用额度",
+      "creditlimit_base": "信用额度(基础货币)",
+      "creditonhold": "信用冻结",
+      "customersizecode": "客户规模",
+      "customertypecode": "关系类型",
+      "description": "说明",
+      "donotbulkemail": "不允许使用批量电子邮件",
+      "donotbulkpostalmail": "不允许使用批量邮件",
+      "donotemail": "不允许使用电子邮件",
+      "donotfax": "不允许使用传真",
+      "donotphone": "不允许电话联络",
+      "donotpostalmail": "不允许使用邮件",
+      "donotsendmm": "发送市场营销资料",
+      "emailaddress1": "电子邮件 (emailaddress1)",
+      "emailaddress2": "电子邮件地址 2",
+      "emailaddress3": "电子邮件地址 3",
+      "entityimage": "默认图像",
+      "entityimageid": "实体图像 ID",
+      "exchangerate": "汇率",
+      "fax": "传真 (fax)",
+      "followemail": "跟踪电子邮件活动",
+      "ftpsiteurl": "FTP 站点",
+      "importsequencenumber": "导入序列号",
+      "industrycode": "行业",
+      "lastonholdtime": "上一暂候时间",
+      "lastusedincampaign": "上次参与市场活动的日期",
+      "marketcap": "市值",
+      "marketcap_base": "市值(基础货币)",
+      "marketingonly": "仅限市场营销",
+      "masterid": "主 ID",
+      "merged": "合并",
       "modifiedby": "修改者",
-      "modifiedon": "修改日期",
-      "modifiedonbehalfby": "修改者 (代理人)",
-      "msa_account_managingpartner": "客戶 (msa_account_managingpartner)",
-      "msa_contact_managingpartner": "連絡人 (msa_contact_managingpartner)",
+      "modifiedon": "修改时间",
+      "modifiedonbehalfby": "修改者(代理)",
+      "msa_account_managingpartner": "客户 (msa_account_managingpartner)",
+      "msa_contact_managingpartner": "联系人 (msa_contact_managingpartner)",
       "msa_managingpartnerid": "Managing Partner",
-      "name": "客戶名稱",
-      "numberofemployees": "員工數",
-      "onholdtime": "保留時間 (分鐘)",
-      "overriddencreatedon": "記錄建立時間",
-      "ownershipcode": "擁有權",
-      "owningbusinessunit": "擁有業務單位",
-      "owningteam": "擁有團隊",
-      "owninguser": "擁有使用者",
-      "parentaccountid": "上層客戶",
-      "participatesinworkflow": "參與工作流程",
-      "paymenttermscode": "付款條件",
-      "powerpagecomponent_mspp_webrole_account": "網站元件",
-      "preferredappointmentdaycode": "偏好的日期",
-      "preferredappointmenttimecode": "偏好的時間",
-      "preferredcontactmethodcode": "偏好的連絡方式",
-      "preferredsystemuserid": "偏好的使用者",
-      "primarycontactid": "主要連絡人",
-      "primarysatoriid": "主要 Satori 識別碼",
-      "primarytwitterid": "主要 Twitter 識別碼",
-      "processid": "程序",
-      "revenue": "年度營收",
-      "revenue_base": "年度營收 (基準貨幣)",
-      "sharesoutstanding": "流通在外股數",
-      "shippingmethodcode": "運送方式",
-      "sic": "標準產業分類碼 (SIC code)",
-      "stageid": "(已取代) 程序階段",
-      "statecode": "狀態",
-      "statuscode": "狀態原因",
-      "stockexchange": "證券交易所",
-      "telephone1": "主要電話",
-      "telephone2": "其他電話",
-      "telephone3": "電話 3",
-      "territorycode": "領域代碼",
-      "tickersymbol": "股票看板代號",
-      "timespentbymeonemailandmeetings": "我花費的時間",
-      "timezoneruleversionnumber": "時區規則版本號碼",
-      "transactioncurrencyid": "貨幣",
-      "traversedpath": "(已取代) 周遊的路徑",
-      "utcconversiontimezonecode": "UTC 轉換時區代碼",
-      "versionnumber": "版本號碼",
-      "websiteurl": "網站",
-      "yominame": "拼音客戶姓名"
+      "name": "客户名称",
+      "numberofemployees": "员工人数",
+      "onholdtime": "暂候时间(分钟)",
+      "overriddencreatedon": "创建记录的时间",
+      "ownershipcode": "所有权",
+      "owningbusinessunit": "负责的业务部门",
+      "owningteam": "负责团队",
+      "owninguser": "负责人用户",
+      "parentaccountid": "上级单位",
+      "participatesinworkflow": "参与工作流",
+      "paymenttermscode": "付款方式",
+      "powerpagecomponent_mspp_webrole_account": "站点组件",
+      "preferredappointmentdaycode": "首选日",
+      "preferredappointmenttimecode": "首选时间",
+      "preferredcontactmethodcode": "首选联系方式",
+      "preferredsystemuserid": "首选用户",
+      "primarycontactid": "主要联系人",
+      "primarysatoriid": "主要 Satori ID",
+      "primarytwitterid": "主要 Twitter ID",
+      "processid": "流程",
+      "revenue": "年收入",
+      "revenue_base": "年收入(基础货币)",
+      "sharesoutstanding": "已发行股票",
+      "shippingmethodcode": "送货方式",
+      "sic": "行业编码",
+      "stageid": "(已弃用)流程阶段",
+      "statecode": "状态",
+      "statuscode": "状态描述",
+      "stockexchange": "证券交易所",
+      "telephone1": "主要电话",
+      "telephone2": "其他电话",
+      "telephone3": "电话 3",
+      "territorycode": "区域代码",
+      "tickersymbol": "股票代号",
+      "timespentbymeonemailandmeetings": "我所用的时间",
+      "timezoneruleversionnumber": "时区规则版本号",
+      "transactioncurrencyid": "货币",
+      "traversedpath": "(已弃用)遍历的路径",
+      "utcconversiontimezonecode": "UTC 转换时区代码",
+      "versionnumber": "版本号",
+      "websiteurl": "网站",
+      "yominame": "Yomi 客户名称"
     },
     "PreferredName": "Accounts",
     "Type": "NativeCDSDataSourceInfo"
@@ -200,25 +199,25 @@
     "TrimmedViewName": true,
     "Type": "ViewInfo",
     "ViewInfoNameMapping": {
-      "00000000-0000-0000-00aa-000000666000": "客戶進階尋找檢視表",
-      "00000000-0000-0000-00aa-000010001001": "我的現行客戶",
-      "00000000-0000-0000-00aa-000010001002": "現行客戶",
-      "00000000-0000-0000-00aa-000010001031": "非現行客戶",
-      "00000000-0000-0000-00aa-000010001200": "客戶相關檢視",
-      "15c63745-0a6e-4322-8416-a62c84d90279": "客戶: 影響我們交易的成交",
-      "49fb9771-09e1-4e70-b193-198752493577": "客戶:前 6 個月中有行銷活動回覆",
-      "65ffaf9a-e8c5-432d-860b-32f841b00d87": "所有客戶",
-      "a9af0ab8-861d-4cfa-92a5-c6281fed7fab": "客戶查詢檢視表",
-      "cfbcd7af-aee5-4e45-8ecc-c040d4020581": "客戶:前 3 個月無行銷活動方式",
-      "d234426e-1f37-4944-9255-50e19b541c4c": "我的人脈"
+      "00000000-0000-0000-00aa-000000666000": "客户高级查找视图",
+      "00000000-0000-0000-00aa-000010001001": "我的可用客户",
+      "00000000-0000-0000-00aa-000010001002": "可用客户",
+      "00000000-0000-0000-00aa-000010001031": "停用客户",
+      "00000000-0000-0000-00aa-000010001200": "客户关联视图",
+      "15c63745-0a6e-4322-8416-a62c84d90279": "客户: 影响我们赢得的交易",
+      "49fb9771-09e1-4e70-b193-198752493577": "客户: 近 6 个月有市场活动响应",
+      "65ffaf9a-e8c5-432d-860b-32f841b00d87": "所有客户",
+      "a9af0ab8-861d-4cfa-92a5-c6281fed7fab": "客户查找视图",
+      "cfbcd7af-aee5-4e45-8ecc-c040d4020581": "客户: 近 3 个月无市场活动项目",
+      "d234426e-1f37-4944-9255-50e19b541c4c": "我的连接"
     }
   },
   {
-    "DisplayName": "類別 (Accounts)",
+    "DisplayName": "类别 (Accounts)",
     "Name": "account_accountcategorycode",
     "OptionSetInfoNameMapping": {
-      "1": "偏好的客戶",
-      "2": "標準"
+      "1": "首选客户",
+      "2": "标准"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -234,10 +233,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "分類 (Accounts)",
+    "DisplayName": "分类 (Accounts)",
     "Name": "account_accountclassificationcode",
     "OptionSetInfoNameMapping": {
-      "1": "預設值"
+      "1": "默认值"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -253,10 +252,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "客戶評等 (Accounts)",
+    "DisplayName": "客户等级 (Accounts)",
     "Name": "account_accountratingcode",
     "OptionSetInfoNameMapping": {
-      "1": "預設值"
+      "1": "默认值"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -272,12 +271,12 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "地址 1: 地址類型 (Accounts)",
+    "DisplayName": "地址 1: 地址类型 (Accounts)",
     "Name": "account_address1_addresstypecode",
     "OptionSetInfoNameMapping": {
-      "1": "帳單地址",
-      "2": "收件人",
-      "3": "主要",
+      "1": "帐单邮寄地址",
+      "2": "送货地址",
+      "3": "主要地址",
       "4": "其他"
     },
     "OptionSetIsBooleanValued": false,
@@ -294,11 +293,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "地址 1: 運費條件 (Accounts)",
+    "DisplayName": "地址 1: 货运条款 (Accounts)",
     "Name": "account_address1_freighttermscode",
     "OptionSetInfoNameMapping": {
       "1": "FOB",
-      "4": "CIF – 成本、保費與運費"
+      "2": "免收费用"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -314,17 +313,15 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "地址 1: 運送方式 (Accounts)",
+    "DisplayName": "地址 1: 送货方式 (Accounts)",
     "Name": "account_address1_shippingmethodcode",
     "OptionSetInfoNameMapping": {
-      "2": "DHL",
-      "29": "台灣宅配通",
-      "3": "FedEx",
-      "30": "台灣郵政",
-      "31": "超峰速件",
-      "32": "超商取貨",
-      "4": "UPS",
-      "51": "宅急便 (統一速達)"
+      "1": "航空运输",
+      "10": "铁路运输",
+      "11": "海运",
+      "12": "送货上门",
+      "35": "特快专递",
+      "5": "邮递"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -340,10 +337,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "地址 2: 地址類型 (Accounts)",
+    "DisplayName": "地址 2: 地址类型 (Accounts)",
     "Name": "account_address2_addresstypecode",
     "OptionSetInfoNameMapping": {
-      "1": "預設值"
+      "1": "默认值"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -359,10 +356,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "地址 2: 運費條件 (Accounts)",
+    "DisplayName": "地址 2: 货运条款 (Accounts)",
     "Name": "account_address2_freighttermscode",
     "OptionSetInfoNameMapping": {
-      "1": "預設值"
+      "1": "默认值"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -378,10 +375,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "地址 2: 運送方式 (Accounts)",
+    "DisplayName": "地址 2: 送货方式 (Accounts)",
     "Name": "account_address2_shippingmethodcode",
     "OptionSetInfoNameMapping": {
-      "1": "預設值"
+      "1": "默认值"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -397,10 +394,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "業務類型 (Accounts)",
+    "DisplayName": "商业类型 (Accounts)",
     "Name": "account_businesstypecode",
     "OptionSetInfoNameMapping": {
-      "1": "預設值"
+      "1": "默认值"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -416,7 +413,7 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "信用凍結 (Accounts)",
+    "DisplayName": "信用冻结 (Accounts)",
     "Name": "account_creditonhold",
     "OptionSetInfoNameMapping": {
       "0": "否",
@@ -436,10 +433,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "客戶規模 (Accounts)",
+    "DisplayName": "客户规模 (Accounts)",
     "Name": "account_customersizecode",
     "OptionSetInfoNameMapping": {
-      "1": "預設值"
+      "1": "默认值"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -455,21 +452,21 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "關聯類型 (Accounts)",
+    "DisplayName": "关系类型 (Accounts)",
     "Name": "account_customertypecode",
     "OptionSetInfoNameMapping": {
-      "1": "競爭者",
-      "10": "供應商",
-      "11": "廠商",
+      "1": "竞争对手",
+      "10": "供货商",
+      "11": "供应商",
       "12": "其他",
-      "2": "顧問",
-      "3": "客戶",
-      "4": "投資者",
-      "5": "合作夥伴",
-      "6": "影響者",
-      "7": "媒體",
-      "8": "潛在客戶",
-      "9": "經銷商"
+      "2": "顾问",
+      "3": "客户",
+      "4": "投资者",
+      "5": "合作伙伴",
+      "6": "影响者",
+      "7": "新闻界",
+      "8": "目标客户",
+      "9": "经销商"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -485,11 +482,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "不允許大量電子郵件 (Accounts)",
+    "DisplayName": "不允许使用批量电子邮件 (Accounts)",
     "Name": "account_donotbulkemail",
     "OptionSetInfoNameMapping": {
-      "0": "允許",
-      "1": "不允許"
+      "0": "允许",
+      "1": "不允许"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -525,11 +522,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "不允許電子郵件 (Accounts)",
+    "DisplayName": "不允许使用电子邮件 (Accounts)",
     "Name": "account_donotemail",
     "OptionSetInfoNameMapping": {
-      "0": "允許",
-      "1": "不允許"
+      "0": "允许",
+      "1": "不允许"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -545,11 +542,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "不允許傳真 (Accounts)",
+    "DisplayName": "不允许使用传真 (Accounts)",
     "Name": "account_donotfax",
     "OptionSetInfoNameMapping": {
-      "0": "允許",
-      "1": "不允許"
+      "0": "允许",
+      "1": "不允许"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -565,11 +562,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "不允許通話 (Accounts)",
+    "DisplayName": "不允许电话联络 (Accounts)",
     "Name": "account_donotphone",
     "OptionSetInfoNameMapping": {
-      "0": "允許",
-      "1": "不允許"
+      "0": "允许",
+      "1": "不允许"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -585,11 +582,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "不允許郵件 (Accounts)",
+    "DisplayName": "不允许使用邮件 (Accounts)",
     "Name": "account_donotpostalmail",
     "OptionSetInfoNameMapping": {
-      "0": "允許",
-      "1": "不允許"
+      "0": "允许",
+      "1": "不允许"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -605,11 +602,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "傳送行銷資料 (Accounts)",
+    "DisplayName": "发送市场营销资料 (Accounts)",
     "Name": "account_donotsendmm",
     "OptionSetInfoNameMapping": {
-      "0": "傳送",
-      "1": "不要傳送"
+      "0": "发送",
+      "1": "不发送"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -625,11 +622,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "追隨電子郵件活動 (Accounts)",
+    "DisplayName": "跟踪电子邮件活动 (Accounts)",
     "Name": "account_followemail",
     "OptionSetInfoNameMapping": {
-      "0": "不允許",
-      "1": "允許"
+      "0": "不允许",
+      "1": "允许"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -645,25 +642,29 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "產業 (Accounts)",
+    "DisplayName": "行业 (Accounts)",
     "Name": "account_industrycode",
     "OptionSetInfoNameMapping": {
-      "104": "公共行政業",
-      "236": "批發及零售業",
-      "237": "文化、運動及休閒服務業",
-      "254": "專業、科學及技術服務業",
-      "34": "農、林、漁、牧業",
-      "43": "其他服務業",
-      "53": "營造業",
-      "55": "金融及保險業",
-      "59": "礦業及土石採取業",
-      "60": "製造業",
-      "61": "水電燃氣業",
-      "63": "住宿及餐飲業",
-      "64": "運輸、倉儲及通信業",
-      "67": "教育服務業",
-      "68": "醫療保健及社會福利服務業",
-      "82": "不動產及租賃業"
+      "104": "公共管理与社会组织",
+      "16": "金融业",
+      "236": "批发和零售业",
+      "237": "文化、体育和娱乐业",
+      "243": "交通运输、仓储和邮政业",
+      "244": "信息传输、计算机服务和软件业",
+      "245": "租赁和商务服务业",
+      "246": "科学研究、技术服务和地质勘查业",
+      "247": "水利、环境和公共设施管理业",
+      "248": "居民服务和其他服务业",
+      "249": "国际组织",
+      "34": "农、林、牧、渔业",
+      "50": "采矿业",
+      "53": "建筑业",
+      "60": "制造业",
+      "61": "电力、燃气及水的生产和供应业",
+      "63": "住宿和餐饮业",
+      "67": "教育",
+      "68": "卫生、社会保障和社会福利业 ",
+      "82": "房地产业"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -699,7 +700,7 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "僅限行銷 (Accounts)",
+    "DisplayName": "仅限市场营销 (Accounts)",
     "Name": "account_marketingonly",
     "OptionSetInfoNameMapping": {
       "0": "否",
@@ -719,7 +720,7 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "已合併 (Accounts)",
+    "DisplayName": "合并 (Accounts)",
     "Name": "account_merged",
     "OptionSetInfoNameMapping": {
       "0": "否",
@@ -739,10 +740,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "擁有權 (Accounts)",
+    "DisplayName": "所有权 (Accounts)",
     "Name": "account_ownershipcode",
     "OptionSetInfoNameMapping": {
-      "1": "上市公司",
+      "1": "公共事业",
       "2": "私人公司",
       "3": "子公司",
       "4": "其他"
@@ -761,7 +762,7 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "參與工作流程 (Accounts)",
+    "DisplayName": "参与工作流 (Accounts)",
     "Name": "account_participatesinworkflow",
     "OptionSetInfoNameMapping": {
       "0": "否",
@@ -781,13 +782,13 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "付款條件 (Accounts)",
+    "DisplayName": "付款方式 (Accounts)",
     "Name": "account_paymenttermscode",
     "OptionSetInfoNameMapping": {
-      "1": "30 天內付款",
-      "2": "2% 10，30 天內付款",
-      "3": "45 天內付款",
-      "4": "60 天內付款"
+      "1": "N30",
+      "2": "2/10 N30",
+      "3": "N45",
+      "4": "N60"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -803,7 +804,7 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "偏好的日期 (Accounts)",
+    "DisplayName": "首选日 (Accounts)",
     "Name": "account_preferredappointmentdaycode",
     "OptionSetInfoNameMapping": {
       "0": "星期日",
@@ -828,7 +829,7 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "偏好的時間 (Accounts)",
+    "DisplayName": "首选时间 (Accounts)",
     "Name": "account_preferredappointmenttimecode",
     "OptionSetInfoNameMapping": {
       "1": "上午",
@@ -849,14 +850,14 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "偏好的連絡方式 (Accounts)",
+    "DisplayName": "首选联系方式 (Accounts)",
     "Name": "account_preferredcontactmethodcode",
     "OptionSetInfoNameMapping": {
-      "1": "任意",
-      "2": "電子郵件",
-      "3": "電話",
-      "4": "傳真",
-      "5": "郵件"
+      "1": "任何方式",
+      "2": "电子邮件",
+      "3": "电话",
+      "4": "传真",
+      "5": "邮件"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -872,10 +873,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "運送方式 (Accounts)",
+    "DisplayName": "送货方式 (Accounts)",
     "Name": "account_shippingmethodcode",
     "OptionSetInfoNameMapping": {
-      "1": "預設值"
+      "1": "默认值"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -891,11 +892,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "狀態 (Accounts)",
+    "DisplayName": "状态 (Accounts)",
     "Name": "account_statecode",
     "OptionSetInfoNameMapping": {
-      "0": "使用中",
-      "1": "非使用中"
+      "0": "可用",
+      "1": "停用"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -911,11 +912,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "狀態原因 (Accounts)",
+    "DisplayName": "状态描述 (Accounts)",
     "Name": "account_statuscode",
     "OptionSetInfoNameMapping": {
-      "1": "使用中",
-      "2": "非使用中"
+      "1": "可用",
+      "2": "停用"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -931,10 +932,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "領域代碼 (Accounts)",
+    "DisplayName": "区域代码 (Accounts)",
     "Name": "account_territorycode",
     "OptionSetInfoNameMapping": {
-      "1": "預設值"
+      "1": "默认值"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -946,6 +947,30 @@
     },
     "OptionSetTypeKey": "PicklistType",
     "RelatedColumnInvariantName": "territorycode",
+    "RelatedEntityName": "Accounts",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "DataState",
+    "Name": "msft_datastate",
+    "OptionSetInfoNameMapping": {
+      "0": "Default",
+      "1": "Retain"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": true,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "msft_datastate",
+        "OptionSetReferenceEntityName": "Accounts"
+      },
+      "OptionSetReferenceItem1": {
+        "OptionSetReferenceColumnName": "msft_datastate",
+        "OptionSetReferenceEntityName": "Tasks"
+      }
+    },
+    "OptionSetTypeKey": "PicklistType",
+    "RelatedColumnInvariantName": "msft_datastate",
     "RelatedEntityName": "Accounts",
     "Type": "OptionSetInfo"
   }

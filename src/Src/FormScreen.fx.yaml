@@ -55,14 +55,14 @@
             BorderStyle: =BorderStyle.Solid
             DataField: ="address1_line1"
             Default: |-
-                =ThisItem.'地址 1: 街道 1'
+                =ThisItem.'Address 1: Street 1'
             DisplayMode: =Parent.DisplayMode
             DisplayName: |-
-                =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'地址 1: 街道 1')
+                =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'Address 1: Street 1')
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
             MaxLength: |-
-                =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, '地址 1: 街道 1')
+                =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, 'Address 1: Street 1')
             Required: =false
             Update: =DataCardValue9.Text
             Width: =640
