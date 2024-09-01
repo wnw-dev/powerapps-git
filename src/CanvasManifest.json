@@ -131,13 +131,14 @@
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
-    "UserLocale": "en-US"
+    "UserLocale": "zh-TW"
   },
   "ScreenOrder": [
     "BrowseScreen",
     "FormScreen",
     "Screen1",
     "Screen2",
-    "TestScreen"
+    "TestScreen",
+    "Christine_TEST"
   ]
 }
