@@ -135,6 +135,7 @@
   },
   "ScreenOrder": [
     "BrowseScreen",
-    "FormScreen"
+    "FormScreen",
+    "Screen1"
   ]
 }

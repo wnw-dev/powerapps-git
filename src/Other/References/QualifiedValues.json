@@ -23,6 +23,13 @@
       }
     },
     {
+      "Kind": "default.cds_cr3ae_newtable_forms",
+      "Namespace": "TESTS (Forms)",
+      "Values": {
+        "信息": "eb2e5e17-64a8-4f06-a0ee-a6e12ab06659"
+      }
+    },
+    {
       "Kind": "default.cds_account_forms",
       "Namespace": "Accounts (表單)",
       "Values": {
@@ -55,13 +62,6 @@
       "Namespace": "Client_records (表單)",
       "Values": {
         "資訊": "62ba009f-2617-4a2c-b8c6-eab0ad4c6517"
-      }
-    },
-    {
-      "Kind": "default.cds_cr3ae_newtable_forms",
-      "Namespace": "TESTS (Forms)",
-      "Values": {
-        "信息": "eb2e5e17-64a8-4f06-a0ee-a6e12ab06659"
       }
     }
   ]
