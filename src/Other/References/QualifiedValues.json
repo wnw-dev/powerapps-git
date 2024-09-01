@@ -80,6 +80,13 @@
       }
     },
     {
+      "Kind": "default.cds_cr503_rui_test_forms",
+      "Namespace": "Rui_Tests (Forms)",
+      "Values": {
+        "Information": "cc684122-f86c-4c66-8904-a34c5c75427d"
+      }
+    },
+    {
       "Kind": "default.cds_account_forms",
       "Namespace": "Accounts (表單)",
       "Values": {
@@ -162,13 +169,6 @@
         "任务快速创建窗体。": "a1c8a6dc-8804-4019-9c78-7dbe86560ea1",
         "信息": "b62ce022-cc0f-4c8c-bb29-21948f70dc74",
         "快速窗体": "1fac7e2e-0b1c-4b6c-ab92-8af0f92dbdbc"
-      }
-    },
-    {
-      "Kind": "default.cds_cr503_rui_test_forms",
-      "Namespace": "Rui_Tests (Forms)",
-      "Values": {
-        "Information": "cc684122-f86c-4c66-8904-a34c5c75427d"
       }
     }
   ]
