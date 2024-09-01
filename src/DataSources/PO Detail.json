@@ -6,6 +6,7 @@
     "IsSampleData": false,
     "IsWritable": true,
     "LogicalName": "crb94_podetail",
+    "MaxGetRowsCount": 500,
     "Name": "PO Detail",
     "NativeCDSDataSourceInfoNameMapping": {
       "_ownerid_value": "負責人",
