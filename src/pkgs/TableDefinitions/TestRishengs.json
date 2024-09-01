@@ -2,7 +2,7 @@
   "DatasetName": "default.cds",
   "EntityName": "TestRishengs",
   "environmentVariableName": "",
-  "InstanceUrl": "https://quanyi.crm6.dynamics.com/",
+  "InstanceUrl": "https://org61d5b3ad.crm6.dynamics.com/",
   "state": "Configured",
   "TableDefinition": {
     "BooleanOptionSetAttribute": "{\"@odata.context\":\"https://org61d5b3ad.crm6.dynamics.com/api/data/v9.0/$metadata#EntityDefinitions('cr5f5_testrisheng')/Attributes/Microsoft.Dynamics.CRM.BooleanAttributeMetadata(MetadataId,LogicalName,SchemaName,DisplayName,OptionSet())\",\"value\":[]}",

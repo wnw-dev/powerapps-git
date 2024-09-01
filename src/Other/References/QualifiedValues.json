@@ -80,6 +80,13 @@
       "Values": {
         "資訊": "62ba009f-2617-4a2c-b8c6-eab0ad4c6517"
       }
+    },
+    {
+      "Kind": "default.cds_cr5f5_testtable_forms",
+      "Namespace": "TestTables (Forms)",
+      "Values": {
+        "資訊": "5a16ceab-970b-4ab0-accf-e2fc6893fb7d"
+      }
     }
   ]
 }

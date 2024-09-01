@@ -1,0 +1,138 @@
+[
+  {
+    "CdsFCBContext": "{\"FileType\":true,\"ImageExternalStorage\":true}",
+    "EntitySetName": "cr5f5_testtables",
+    "IsHidden": false,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "LogicalName": "cr5f5_testtable",
+    "MaxGetRowsCount": 500,
+    "Name": "TestTables",
+    "NativeCDSDataSourceInfoNameMapping": {
+      "_ownerid_value": "負責人",
+      "cr5f5_client_address": "Client_Address",
+      "cr5f5_client_gender": "Client_gender",
+      "cr5f5_client_name": "Client_Name",
+      "cr5f5_id": "ID",
+      "cr5f5_testtable_AsyncOperations": "系統作業",
+      "cr5f5_testtable_BulkDeleteFailures": "大量刪除失敗",
+      "cr5f5_testtable_MailboxTrackingFolders": "信箱自動追蹤資料夾",
+      "cr5f5_testtable_PrincipalObjectAttributeAccesses": "欄位共用",
+      "cr5f5_testtable_ProcessSession": "程序工作階段",
+      "cr5f5_testtable_SyncErrors": "同步處理錯誤",
+      "cr5f5_testtableid": "TestTable",
+      "createdby": "建立者",
+      "createdon": "建立時間",
+      "createdonbehalfby": "建立者 (代理人)",
+      "importsequencenumber": "匯入序號",
+      "modifiedby": "修改者",
+      "modifiedon": "修改日期",
+      "modifiedonbehalfby": "修改者 (代理人)",
+      "overriddencreatedon": "記錄建立時間",
+      "owningbusinessunit": "擁有業務單位",
+      "owningteam": "擁有團隊",
+      "owninguser": "擁有使用者",
+      "statecode": "狀態",
+      "statuscode": "狀態原因",
+      "timezoneruleversionnumber": "時區規則版本號碼",
+      "utcconversiontimezonecode": "UTC 轉換時區代碼",
+      "versionnumber": "版本號碼"
+    },
+    "PreferredName": "TestTables",
+    "Type": "NativeCDSDataSourceInfo"
+  },
+  {
+    "DisplayName": "TestTables (Views)",
+    "Name": "_cr5f5_testtable_views",
+    "RelatedEntityName": "TestTables",
+    "TrimmedViewName": true,
+    "Type": "ViewInfo",
+    "ViewInfoNameMapping": {
+      "252a18c1-e22f-4cb6-b598-e7f34eb61afb": "TestTable相關檢視",
+      "2a139d84-cce2-4e0f-b1f3-1d0aa60c9daa": "非使用中 TestTables",
+      "331748bd-7bdb-4bf8-b68c-b3fda2f55f97": "TestTable進階尋找檢視表",
+      "614654d8-4752-42f5-9b82-713bd06225b8": "使用中 TestTables",
+      "b940e464-8c71-40e8-9cc7-a8e75aac546e": "TestTable查詢檢視表"
+    }
+  },
+  {
+    "DisplayName": "狀態 (TestTables)_1",
+    "Name": "cr5f5_testtable_statecode",
+    "OptionSetInfoNameMapping": {
+      "0": "使用中",
+      "1": "非使用中"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statecode",
+        "OptionSetReferenceEntityName": "TestTables"
+      }
+    },
+    "OptionSetTypeKey": "StateType",
+    "RelatedColumnInvariantName": "statecode",
+    "RelatedEntityName": "TestTables",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "狀態原因 (TestTables)_1",
+    "Name": "cr5f5_testtable_statuscode",
+    "OptionSetInfoNameMapping": {
+      "1": "使用中",
+      "2": "非使用中"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statuscode",
+        "OptionSetReferenceEntityName": "TestTables"
+      }
+    },
+    "OptionSetTypeKey": "StatusType",
+    "RelatedColumnInvariantName": "statuscode",
+    "RelatedEntityName": "TestTables",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "狀態 (TestTables)",
+    "Name": "new_reserveentity_rp53fd1p1ekxpa_t7_25eeece489_statecode",
+    "OptionSetInfoNameMapping": {
+      "0": "使用中",
+      "1": "非使用中"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statecode",
+        "OptionSetReferenceEntityName": "TestTables"
+      }
+    },
+    "OptionSetTypeKey": "StateType",
+    "RelatedColumnInvariantName": "statecode",
+    "RelatedEntityName": "TestTables",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "狀態原因 (TestTables)",
+    "Name": "new_reserveentity_rp53fd1p1ekxpa_t7_25eeece489_statuscode",
+    "OptionSetInfoNameMapping": {
+      "1": "使用中",
+      "2": "非使用中"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statuscode",
+        "OptionSetReferenceEntityName": "TestTables"
+      }
+    },
+    "OptionSetTypeKey": "StatusType",
+    "RelatedColumnInvariantName": "statuscode",
+    "RelatedEntityName": "TestTables",
+    "Type": "OptionSetInfo"
+  }
+]

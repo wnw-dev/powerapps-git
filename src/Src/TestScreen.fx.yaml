@@ -2,7 +2,7 @@ TestScreen As screen:
 
     Gallery2 As gallery.galleryVertical:
         DelayItemLoading: =true
-        Items: ='New tables'
+        Items: ='TestTables'
         Layout: =Layout.Vertical
         LoadingSpinner: =LoadingSpinner.Data
         TemplateSize: =If(Self.Layout = Layout.Horizontal, Min(280, Self.Width - 60), Min(280, Self.Height - 60))
@@ -43,7 +43,7 @@ TestScreen As screen:
             Height: =56
             OnSelect: =Select(Parent)
             Size: =21
-            Text: =ThisItem.Client_Age
+            Text: =ThisItem.ID
             Width: =71
             X: =201
             Y: =40
