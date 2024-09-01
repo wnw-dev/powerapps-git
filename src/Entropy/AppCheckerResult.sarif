@@ -762,19 +762,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Christine_TEST.Gallery4.AccessibleLabel"
+                  "fullyQualifiedName": "Christine_TEST.Gallery5.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Christine_TEST.Gallery4.AccessibleLabel",
+                  "fullyQualifiedName": "Christine_TEST.Gallery5.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Christine_TEST",
-                "type": "Christine_TEST.Gallery4"
+                "type": "Christine_TEST.Gallery5"
               }
             }
           ],
@@ -792,19 +792,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Christine_TEST.Gallery4.TabIndex"
+                  "fullyQualifiedName": "Christine_TEST.Gallery5.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Christine_TEST.Gallery4.TabIndex",
+                  "fullyQualifiedName": "Christine_TEST.Gallery5.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "Christine_TEST",
-                "type": "Christine_TEST.Gallery4"
+                "type": "Christine_TEST.Gallery5"
               }
             }
           ],
