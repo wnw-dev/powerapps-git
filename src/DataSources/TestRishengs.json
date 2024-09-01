@@ -1,27 +1,24 @@
 [
   {
     "CdsFCBContext": "{\"FileType\":true,\"ImageExternalStorage\":true}",
-    "EntitySetName": "cr5f5_newtables",
+    "EntitySetName": "cr5f5_testrishengs",
     "IsHidden": false,
     "IsSampleData": false,
     "IsWritable": true,
-    "LogicalName": "cr5f5_newtable",
-    "MaxGetRowsCount": 500,
-    "Name": "New tables",
+    "LogicalName": "cr5f5_testrisheng",
+    "Name": "TestRishengs",
     "NativeCDSDataSourceInfoNameMapping": {
       "_ownerid_value": "負責人",
-      "cr5f5_client_address": "Client_Address",
-      "cr5f5_client_age": "Client_Age",
-      "cr5f5_client_gender": "Client_gender",
-      "cr5f5_client_name": "Client_Name",
-      "cr5f5_id": "ID",
-      "cr5f5_newtable_AsyncOperations": "系統作業",
-      "cr5f5_newtable_BulkDeleteFailures": "大量刪除失敗",
-      "cr5f5_newtable_MailboxTrackingFolders": "信箱自動追蹤資料夾",
-      "cr5f5_newtable_PrincipalObjectAttributeAccesses": "欄位共用",
-      "cr5f5_newtable_ProcessSession": "程序工作階段",
-      "cr5f5_newtable_SyncErrors": "同步處理錯誤",
-      "cr5f5_newtableid": "New table",
+      "cr5f5_name": "name",
+      "cr5f5_testrisheng_AsyncOperations": "系統作業",
+      "cr5f5_testrisheng_BulkDeleteFailures": "大量刪除失敗",
+      "cr5f5_testrisheng_DuplicateBaseRecord": "重複資料記錄 (cr5f5_testrisheng_DuplicateBaseRecord)",
+      "cr5f5_testrisheng_DuplicateMatchingRecord": "重複資料記錄 (cr5f5_testrisheng_DuplicateMatchingRecord)",
+      "cr5f5_testrisheng_MailboxTrackingFolders": "信箱自動追蹤資料夾",
+      "cr5f5_testrisheng_PrincipalObjectAttributeAccesses": "欄位共用",
+      "cr5f5_testrisheng_ProcessSession": "程序工作階段",
+      "cr5f5_testrisheng_SyncErrors": "同步處理錯誤",
+      "cr5f5_testrishengid": "TestRisheng",
       "createdby": "建立者",
       "createdon": "建立時間",
       "createdonbehalfby": "建立者 (代理人)",
@@ -39,26 +36,12 @@
       "utcconversiontimezonecode": "UTC 轉換時區代碼",
       "versionnumber": "版本號碼"
     },
-    "PreferredName": "New tables",
+    "PreferredName": "TestRishengs",
     "Type": "NativeCDSDataSourceInfo"
   },
   {
-    "DisplayName": "New tables (Views)",
-    "Name": "_cr5f5_newtable_views",
-    "RelatedEntityName": "New tables",
-    "TrimmedViewName": true,
-    "Type": "ViewInfo",
-    "ViewInfoNameMapping": {
-      "0b33f5d5-896e-4545-8eae-2ded48ff694d": "使用中 TestClientTables",
-      "4f841b75-9b70-4592-a288-6b82da2a14dc": "TestClientTable查詢檢視表",
-      "aa9a3829-b663-4aab-bb2c-92b2e7009879": "TestClientTable進階尋找檢視表",
-      "b60ac516-4436-4c5d-a242-9eaeb3bd31b7": "非使用中 TestClientTables",
-      "fbe006bc-d4d7-4bfe-8ddf-493b68d72ec5": "TestClientTable相關檢視"
-    }
-  },
-  {
-    "DisplayName": "狀態 (New tables)_1",
-    "Name": "cr5f5_newtable_statecode",
+    "DisplayName": "狀態 (TestRishengs)",
+    "Name": "cr5f5_testrisheng_statecode",
     "OptionSetInfoNameMapping": {
       "0": "使用中",
       "1": "非使用中"
@@ -68,17 +51,17 @@
     "OptionSetReference": {
       "OptionSetReferenceItem0": {
         "OptionSetReferenceColumnName": "statecode",
-        "OptionSetReferenceEntityName": "New tables"
+        "OptionSetReferenceEntityName": "TestRishengs"
       }
     },
     "OptionSetTypeKey": "StateType",
     "RelatedColumnInvariantName": "statecode",
-    "RelatedEntityName": "New tables",
+    "RelatedEntityName": "TestRishengs",
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "狀態原因 (New tables)_1",
-    "Name": "cr5f5_newtable_statuscode",
+    "DisplayName": "狀態原因 (TestRishengs)",
+    "Name": "cr5f5_testrisheng_statuscode",
     "OptionSetInfoNameMapping": {
       "1": "使用中",
       "2": "非使用中"
@@ -88,12 +71,12 @@
     "OptionSetReference": {
       "OptionSetReferenceItem0": {
         "OptionSetReferenceColumnName": "statuscode",
-        "OptionSetReferenceEntityName": "New tables"
+        "OptionSetReferenceEntityName": "TestRishengs"
       }
     },
     "OptionSetTypeKey": "StatusType",
     "RelatedColumnInvariantName": "statuscode",
-    "RelatedEntityName": "New tables",
+    "RelatedEntityName": "TestRishengs",
     "Type": "OptionSetInfo"
   }
 ]
