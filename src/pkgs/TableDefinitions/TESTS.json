@@ -2,7 +2,7 @@
   "DatasetName": "default.cds",
   "EntityName": "TESTS",
   "environmentVariableName": "",
-  "InstanceUrl": "https://org61d5b3ad.crm6.dynamics.com/",
+  "InstanceUrl": "https://orgd5405aba.crm6.dynamics.com/",
   "LocalReferenceDSJson": {
     "entitySetName": "cr3ae_newtables",
     "logicalName": "cr3ae_newtable"

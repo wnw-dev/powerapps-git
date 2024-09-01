@@ -73,6 +73,13 @@
       }
     },
     {
+      "Kind": "default.cds_cr5f5_newtable1_forms",
+      "Namespace": "Test_table_threes (Forms)",
+      "Values": {
+        "資訊": "d0da5e98-82a6-40a1-b184-d039567723be"
+      }
+    },
+    {
       "Kind": "default.cds_account_forms",
       "Namespace": "Accounts (表單)",
       "Values": {
@@ -158,10 +165,10 @@
       }
     },
     {
-      "Kind": "default.cds_cr5f5_newtable1_forms",
-      "Namespace": "Test_table_threes (Forms)",
+      "Kind": "default.cds_cr503_rui_test_forms",
+      "Namespace": "Rui_Tests (Forms)",
       "Values": {
-        "資訊": "d0da5e98-82a6-40a1-b184-d039567723be"
+        "Information": "cc684122-f86c-4c66-8904-a34c5c75427d"
       }
     }
   ]

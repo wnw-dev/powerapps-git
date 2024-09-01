@@ -2,7 +2,7 @@
   "DatasetName": "default.cds",
   "EntityName": "Accounts",
   "environmentVariableName": "",
-  "InstanceUrl": "https://org61d5b3ad.crm6.dynamics.com/",
+  "InstanceUrl": "https://orgd5405aba.crm6.dynamics.com/",
   "LocalReferenceDSJson": {
     "entitySetName": "accounts",
     "logicalName": "account"
