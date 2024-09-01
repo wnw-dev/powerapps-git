@@ -95,45 +95,5 @@
     "RelatedColumnInvariantName": "statuscode",
     "RelatedEntityName": "New tables",
     "Type": "OptionSetInfo"
-  },
-  {
-    "DisplayName": "狀態 (New tables)",
-    "Name": "new_reserveentity_rp53fd1p1ekxpa_t7_120e198534_statecode",
-    "OptionSetInfoNameMapping": {
-      "0": "使用中",
-      "1": "非使用中"
-    },
-    "OptionSetIsBooleanValued": false,
-    "OptionSetIsGlobal": false,
-    "OptionSetReference": {
-      "OptionSetReferenceItem0": {
-        "OptionSetReferenceColumnName": "statecode",
-        "OptionSetReferenceEntityName": "New tables"
-      }
-    },
-    "OptionSetTypeKey": "StateType",
-    "RelatedColumnInvariantName": "statecode",
-    "RelatedEntityName": "New tables",
-    "Type": "OptionSetInfo"
-  },
-  {
-    "DisplayName": "狀態原因 (New tables)",
-    "Name": "new_reserveentity_rp53fd1p1ekxpa_t7_120e198534_statuscode",
-    "OptionSetInfoNameMapping": {
-      "1": "使用中",
-      "2": "非使用中"
-    },
-    "OptionSetIsBooleanValued": false,
-    "OptionSetIsGlobal": false,
-    "OptionSetReference": {
-      "OptionSetReferenceItem0": {
-        "OptionSetReferenceColumnName": "statuscode",
-        "OptionSetReferenceEntityName": "New tables"
-      }
-    },
-    "OptionSetTypeKey": "StatusType",
-    "RelatedColumnInvariantName": "statuscode",
-    "RelatedEntityName": "New tables",
-    "Type": "OptionSetInfo"
   }
 ]
