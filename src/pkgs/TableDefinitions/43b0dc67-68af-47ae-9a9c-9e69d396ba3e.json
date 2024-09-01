@@ -2,7 +2,7 @@
   "DatasetName": "default.cds",
   "EntityName": "43b0dc67-68af-47ae-9a9c-9e69d396ba3e",
   "environmentVariableName": "",
-  "InstanceUrl": "https://org8efcd196.crm6.dynamics.com/",
+  "InstanceUrl": "https://christinehuang.crm6.dynamics.com/",
   "state": "Configured",
   "TableDefinition": {
     "BooleanOptionSetAttribute": null,
@@ -18,11 +18,6 @@
     "TableName": "msdyn_aimodel",
     "Views": null
   },
-  "UnusedDataSources": {
-    "Tasks": {
-      "entitySetName": "tasks",
-      "logicalName": "task"
-    }
-  },
+  "UnusedDataSources": {},
   "webApiVersion": "v9.0"
 }
