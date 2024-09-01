@@ -131,14 +131,14 @@
             BorderStyle: =BorderStyle.Solid
             DataField: ="address1_postalcode"
             Default: |-
-                =ThisItem.'地址 1: 郵遞區號'
+                =ThisItem.'地址 1: 邮政编码'
             DisplayMode: =Parent.DisplayMode
             DisplayName: |-
-                =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'地址 1: 郵遞區號')
+                =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'地址 1: 邮政编码')
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
             MaxLength: |-
-                =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, '地址 1: 郵遞區號')
+                =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, '地址 1: 邮政编码')
             Required: =false
             Update: =DataCardValue10.Text
             Width: =640
@@ -206,9 +206,9 @@
         "'Annual Revenue_DataCard1' As typedDataCard.currencyEditCard":
             BorderStyle: =BorderStyle.Solid
             DataField: ="revenue"
-            Default: =ThisItem.年度營收
+            Default: =ThisItem.年收入
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,年度營收)
+            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,年收入)
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
             Required: =false
@@ -278,12 +278,12 @@
         "'Account Name_DataCard1' As typedDataCard.textualEditCard":
             BorderStyle: =BorderStyle.Solid
             DataField: ="name"
-            Default: =ThisItem.客戶名稱
+            Default: =ThisItem.客户名称
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,客戶名稱)
+            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,客户名称)
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, 客戶名稱)
+            MaxLength: =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, 客户名称)
             Required: =true
             Update: =DataCardValue6.Text
             Width: =640
@@ -352,14 +352,14 @@
             BorderStyle: =BorderStyle.Solid
             DataField: ="address1_city"
             Default: |-
-                =ThisItem.'地址 1: 市/鎮'
+                =ThisItem.'地址 1: 市/县'
             DisplayMode: =Parent.DisplayMode
             DisplayName: |-
-                =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'地址 1: 市/鎮')
+                =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,'地址 1: 市/县')
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
             MaxLength: |-
-                =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, '地址 1: 市/鎮')
+                =DataSourceInfo([@Accounts], DataSourceInfo.MaxLength, '地址 1: 市/县')
             Required: =false
             Update: =DataCardValue1.Text
             Width: =640
@@ -427,9 +427,9 @@
         "'Number of Employees_DataCard1' As typedDataCard.numberEditCard":
             BorderStyle: =BorderStyle.Solid
             DataField: ="numberofemployees"
-            Default: =ThisItem.員工數
+            Default: =ThisItem.员工人数
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,員工數)
+            DisplayName: =DataSourceInfo([@Accounts],DataSourceInfo.DisplayName,员工人数)
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
             Required: =false

@@ -1,0 +1,97 @@
+[
+  {
+    "CdsFCBContext": "{\"FileType\":true,\"ImageExternalStorage\":true}",
+    "EntitySetName": "cr3ae_newtables",
+    "IsHidden": false,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "LogicalName": "cr3ae_newtable",
+    "MaxGetRowsCount": 500,
+    "Name": "TESTS",
+    "NativeCDSDataSourceInfoNameMapping": {
+      "_ownerid_value": "负责人",
+      "cr3ae_a": "A",
+      "cr3ae_b": "B",
+      "cr3ae_c": "C",
+      "cr3ae_newtable_AsyncOperations": "系统作业",
+      "cr3ae_newtable_BulkDeleteFailures": "批量删除失败",
+      "cr3ae_newtable_MailboxTrackingFolders": "邮箱自动跟踪文件夹",
+      "cr3ae_newtable_PrincipalObjectAttributeAccesses": "字段共享",
+      "cr3ae_newtable_ProcessSession": "进程会话",
+      "cr3ae_newtable_SyncErrors": "同步错误",
+      "cr3ae_newtableid": "New table",
+      "createdby": "创建者",
+      "createdon": "创建时间",
+      "createdonbehalfby": "创建者(代理)",
+      "importsequencenumber": "导入序列号",
+      "modifiedby": "修改者",
+      "modifiedon": "修改时间",
+      "modifiedonbehalfby": "修改者(代理)",
+      "overriddencreatedon": "创建记录的时间",
+      "owningbusinessunit": "负责的业务部门",
+      "owningteam": "负责团队",
+      "owninguser": "负责人用户",
+      "statecode": "状态",
+      "statuscode": "状态描述",
+      "timezoneruleversionnumber": "时区规则版本号",
+      "utcconversiontimezonecode": "UTC 转换时区代码",
+      "versionnumber": "版本号"
+    },
+    "PreferredName": "TESTS",
+    "Type": "NativeCDSDataSourceInfo"
+  },
+  {
+    "DisplayName": "TESTS (Views)",
+    "Name": "_cr3ae_newtable_views",
+    "RelatedEntityName": "TESTS",
+    "TrimmedViewName": true,
+    "Type": "ViewInfo",
+    "ViewInfoNameMapping": {
+      "5b40f5a3-a569-449f-9b87-6c69858b73df": "可用的TESTS",
+      "8b17520c-1af8-4616-b1f1-548432b1f69e": "TEST高级查找视图",
+      "a75c57a0-ffd9-42b3-a3dc-3f25c9eece31": "TEST关联视图",
+      "b65e1bf4-5544-4325-8a1a-19a1fb29caf5": "停用TESTS",
+      "f1d59798-2b48-4a37-8564-360074e01d4a": "TEST查找视图"
+    }
+  },
+  {
+    "DisplayName": "状态 (TESTS)",
+    "Name": "cr3ae_newtable_statecode",
+    "OptionSetInfoNameMapping": {
+      "0": "可用",
+      "1": "停用"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statecode",
+        "OptionSetReferenceEntityName": "TESTS"
+      }
+    },
+    "OptionSetTypeKey": "StateType",
+    "RelatedColumnInvariantName": "statecode",
+    "RelatedEntityName": "TESTS",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "状态描述 (TESTS)",
+    "Name": "cr3ae_newtable_statuscode",
+    "OptionSetInfoNameMapping": {
+      "1": "可用",
+      "2": "停用"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statuscode",
+        "OptionSetReferenceEntityName": "TESTS"
+      }
+    },
+    "OptionSetTypeKey": "StatusType",
+    "RelatedColumnInvariantName": "statuscode",
+    "RelatedEntityName": "TESTS",
+    "Type": "OptionSetInfo"
+  }
+]

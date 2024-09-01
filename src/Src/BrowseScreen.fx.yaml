@@ -8,7 +8,7 @@
     "BrowseGallery1 As gallery.'BrowseLayout_Vertical_OneTextVariant_ver5.0'":
         DelayItemLoading: =true
         Height: =Parent.Height - Self.Y
-        Items: =SortByColumns(Search(Accounts, TextSearchBox1.Text, 客戶名稱), "name", If(SortDescending1, SortOrder.Descending, SortOrder.Ascending))
+        Items: =SortByColumns(Search(Accounts, TextSearchBox1.Text, 客户名称), "name", If(SortDescending1, SortOrder.Descending, SortOrder.Ascending))
         Layout: =Layout.Vertical
         LoadingSpinner: =LoadingSpinner.Data
         ShowScrollbar: =false
@@ -26,7 +26,7 @@
             PaddingLeft: =0
             PaddingRight: =0
             PaddingTop: =0
-            Text: =ThisItem.客戶名稱
+            Text: =ThisItem.客户名称
             VerticalAlign: =VerticalAlign.Top
             Width: =Parent.TemplateWidth - 86
             X: =16
