@@ -2,11 +2,7 @@
   "DatasetName": "default.cds",
   "EntityName": "Rui_Tests",
   "environmentVariableName": "",
-  "InstanceUrl": "https://orgd5405aba.crm6.dynamics.com/",
-  "LocalReferenceDSJson": {
-    "entitySetName": "cr503_rui_tests",
-    "logicalName": "cr503_rui_test"
-  },
+  "InstanceUrl": "https://org61d5b3ad.crm6.dynamics.com/",
   "state": "Configured",
   "TableDefinition": {
     "BooleanOptionSetAttribute": "{\"@odata.context\":\"https://orgd5405aba.crm6.dynamics.com/api/data/v9.0/$metadata#EntityDefinitions('cr503_rui_test')/Attributes/Microsoft.Dynamics.CRM.BooleanAttributeMetadata(MetadataId,LogicalName,SchemaName,DisplayName,OptionSet())\",\"value\":[]}",

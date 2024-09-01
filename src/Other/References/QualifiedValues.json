@@ -170,6 +170,11 @@
         "信息": "b62ce022-cc0f-4c8c-bb29-21948f70dc74",
         "快速窗体": "1fac7e2e-0b1c-4b6c-ab92-8af0f92dbdbc"
       }
+    },
+    {
+      "Kind": "default.cds_cr5f5_yet_another_table_forms",
+      "Namespace": "YET_ANOTHER_TABLES (Forms)",
+      "Values": {}
     }
   ]
 }
