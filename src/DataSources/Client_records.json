@@ -6,7 +6,6 @@
     "IsSampleData": false,
     "IsWritable": true,
     "LogicalName": "crb94_client_records",
-    "MaxGetRowsCount": 500,
     "Name": "Client_records",
     "NativeCDSDataSourceInfoNameMapping": {
       "_ownerid_value": "負責人",
