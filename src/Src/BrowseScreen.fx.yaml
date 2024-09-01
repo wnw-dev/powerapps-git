@@ -139,7 +139,7 @@
         Size: =21
         Width: =Parent.Width
         X: =
-        Y: =RectQuickActionBar1.Height
+        Y: =69
         ZIndex: =6
 
     SearchIcon1 As icon.Search:
@@ -160,4 +160,13 @@
         Width: =Parent.Width
         Y: =TextSearchBox1.Y + TextSearchBox1.Height
         ZIndex: =8
+
+    Button1 As button:
+        Height: =70
+        Size: =24
+        Text: ="Button"
+        Width: =280
+        X: =45
+        Y: =408
+        ZIndex: =9
 

@@ -23,18 +23,6 @@
       }
     },
     {
-      "Kind": "default.cds_cr5f5_newtable_forms",
-      "Namespace": "New tables (Forms)",
-      "Values": {
-        "資訊": "3d87f269-db3a-41e0-89cb-e09b22d6fcf5"
-      }
-    },
-    {
-      "Kind": "default.cds_cr5f5_testenviroment_forms",
-      "Namespace": "TEST ENVIROMENT (Forms)",
-      "Values": {}
-    },
-    {
       "Kind": "default.cds_cr3ae_newtable_forms",
       "Namespace": "TESTS (Forms)",
       "Values": {
