@@ -2,7 +2,7 @@ TestScreen As screen:
 
     Gallery2 As gallery.galleryVertical:
         DelayItemLoading: =true
-        Items: ='TestTables'
+        Items: =TestTables
         Layout: =Layout.Vertical
         LoadingSpinner: =LoadingSpinner.Data
         TemplateSize: =If(Self.Layout = Layout.Horizontal, Min(280, Self.Width - 60), Min(280, Self.Height - 60))
