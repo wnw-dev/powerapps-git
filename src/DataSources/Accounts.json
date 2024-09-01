@@ -9,185 +9,190 @@
     "MaxGetRowsCount": 500,
     "Name": "Accounts",
     "NativeCDSDataSourceInfoNameMapping": {
-      "_ownerid_value": "负责人",
+      "_ownerid_value": "Owner",
       "{Attachments}": "Attachments",
-      "account_actioncard": "操作卡",
-      "Account_ActivityPointers": "活动",
-      "account_adx_inviteredemptions": "邀请兑现",
-      "account_adx_portalcomments": "门户评论",
-      "Account_Annotation": "注释",
-      "Account_Appointments": "约会",
-      "Account_AsyncOperations": "系统作业",
-      "Account_BulkDeleteFailures": "批量删除失败",
-      "account_chats": "Teams 聊天",
-      "account_connections1": "连接 (account_connections1)",
-      "account_connections2": "连接 (account_connections2)",
-      "Account_CustomerAddress": "地址",
-      "Account_DuplicateBaseRecord": "重复记录 (Account_DuplicateBaseRecord)",
-      "Account_DuplicateMatchingRecord": "重复记录 (Account_DuplicateMatchingRecord)",
-      "Account_Email_EmailSender": "电子邮件 (Account_Email_EmailSender)",
-      "Account_Email_SendersAccount": "电子邮件 (Account_Email_SendersAccount)",
-      "Account_Emails": "电子邮件 (Account_Emails)",
-      "Account_Faxes": "传真 (Account_Faxes)",
-      "Account_Letters": "信件",
-      "Account_MailboxTrackingFolder": "邮箱自动跟踪文件夹",
-      "account_master_account": "客户 (account_master_account)",
-      "account_parent_account": "客户 (account_parent_account)",
-      "Account_Phonecalls": "电话联络",
-      "account_PostFollows": "关注",
-      "account_PostRegardings": "公告相关项",
-      "account_principalobjectattributeaccess": "字段共享",
-      "Account_ProcessSessions": "进程会话",
-      "Account_RecurringAppointmentMasters": "定期约会",
-      "Account_SharepointDocumentLocation": "文档位置",
-      "Account_SyncErrors": "同步错误",
-      "Account_Tasks": "任务​​",
-      "accountcategorycode": "类别",
-      "accountclassificationcode": "分类",
-      "accountid": "客户 (accountid)",
-      "accountnumber": "客户编号",
-      "accountratingcode": "客户等级",
-      "address1_addresstypecode": "地址 1: 地址类型",
-      "address1_city": "地址 1: 市/县",
-      "address1_composite": "地址 1",
-      "address1_country": "地址 1: 国家/地区",
-      "address1_county": "地址 1: 县",
-      "address1_fax": "地址 1: 传真",
-      "address1_freighttermscode": "地址 1: 货运条款",
-      "address1_latitude": "地址 1: 纬度",
-      "address1_line1": "地址 1: 街道 1",
-      "address1_line2": "地址 1: 街道 2",
-      "address1_line3": "地址 1: 街道 3",
-      "address1_longitude": "地址 1: 经度",
-      "address1_name": "地址 1: 名称",
-      "address1_postalcode": "地址 1: 邮政编码",
-      "address1_postofficebox": "地址 1: 邮政信箱",
-      "address1_primarycontactname": "地址 1: 主要联系人姓名",
-      "address1_shippingmethodcode": "地址 1: 送货方式",
-      "address1_stateorprovince": "地址 1: 省/市/自治区",
-      "address1_telephone1": "联络电话",
-      "address1_telephone2": "地址 1: 电话 2",
-      "address1_telephone3": "地址 1: 电话 3",
-      "address1_upszone": "地址 1: UPS 区域",
-      "address1_utcoffset": "地址 1: UTC 时差",
-      "address2_addresstypecode": "地址 2: 地址类型",
-      "address2_city": "地址 2: 市/县",
-      "address2_composite": "地址 2",
-      "address2_country": "地址 2: 国家/地区",
-      "address2_county": "地址 2: 县",
-      "address2_fax": "地址 2: 传真",
-      "address2_freighttermscode": "地址 2: 货运条款",
-      "address2_latitude": "地址 2: 纬度",
-      "address2_line1": "地址 2: 街道 1",
-      "address2_line2": "地址 2: 街道 2",
-      "address2_line3": "地址 2: 街道 3",
-      "address2_longitude": "地址 2: 经度",
-      "address2_name": "地址 2: 名称",
-      "address2_postalcode": "地址 2: 邮政编码",
-      "address2_postofficebox": "地址 2: 邮政信箱",
-      "address2_primarycontactname": "地址 2: 主要联系人姓名",
-      "address2_shippingmethodcode": "地址 2: 送货方式",
-      "address2_stateorprovince": "地址 2: 省/市/自治区",
-      "address2_telephone1": "地址 2: 电话 1",
-      "address2_telephone2": "地址 2: 电话 2",
-      "address2_telephone3": "地址 2: 电话 3",
-      "address2_upszone": "地址 2: UPS 区域",
-      "address2_utcoffset": "地址 2: UTC 时差",
+      "account_actioncard": "Action Cards",
+      "Account_ActivityPointers": "Activities",
+      "account_adx_inviteredemptions": "Invite Redemptions",
+      "account_adx_portalcomments": "Portal Comments",
+      "Account_Annotation": "Notes",
+      "Account_Appointments": "Appointments",
+      "Account_AsyncOperations": "System Jobs",
+      "Account_BulkDeleteFailures": "Bulk Delete Failures",
+      "account_chats": "Teams chats",
+      "account_connections1": "Connections (account_connections1)",
+      "account_connections2": "Connections (account_connections2)",
+      "Account_CustomerAddress": "Addresses",
+      "Account_DuplicateBaseRecord": "Duplicate Records (Account_DuplicateBaseRecord)",
+      "Account_DuplicateMatchingRecord": "Duplicate Records (Account_DuplicateMatchingRecord)",
+      "Account_Email_EmailSender": "Email Messages (Account_Email_EmailSender)",
+      "Account_Email_SendersAccount": "Email Messages (Account_Email_SendersAccount)",
+      "Account_Emails": "Email Messages (Account_Emails)",
+      "Account_Faxes": "Faxes",
+      "Account_Letters": "Letters",
+      "Account_MailboxTrackingFolder": "Mailbox Auto Tracking Folders",
+      "account_master_account": "Accounts (account_master_account)",
+      "account_msdyn_bookingalerts": "Booking Alerts",
+      "account_msfp_alerts": "Customer Voice alert",
+      "account_msfp_surveyinvites": "Customer Voice survey invites",
+      "account_msfp_surveyresponses": "Customer Voice survey responses",
+      "account_parent_account": "Accounts (account_parent_account)",
+      "Account_Phonecalls": "Phone Calls",
+      "account_PostFollows": "Follows",
+      "account_PostRegardings": "Post Regarding",
+      "account_principalobjectattributeaccess": "Field Sharing",
+      "Account_ProcessSessions": "Process Sessions",
+      "Account_RecurringAppointmentMasters": "Recurring Appointments",
+      "Account_SharepointDocumentLocation": "Document Locations",
+      "Account_SyncErrors": "Sync Errors",
+      "Account_Tasks": "Tasks",
+      "accountcategorycode": "Category",
+      "accountclassificationcode": "Classification",
+      "accountid": "Account",
+      "accountnumber": "Account Number",
+      "accountratingcode": "Account Rating",
+      "address1_addresstypecode": "Address 1: Address Type",
+      "address1_city": "Address 1: City",
+      "address1_composite": "Address 1",
+      "address1_country": "Address 1: Country/Region",
+      "address1_county": "Address 1: County",
+      "address1_fax": "Address 1: Fax",
+      "address1_freighttermscode": "Address 1: Freight Terms",
+      "address1_latitude": "Address 1: Latitude",
+      "address1_line1": "Address 1: Street 1",
+      "address1_line2": "Address 1: Street 2",
+      "address1_line3": "Address 1: Street 3",
+      "address1_longitude": "Address 1: Longitude",
+      "address1_name": "Address 1: Name",
+      "address1_postalcode": "Address 1: ZIP/Postal Code",
+      "address1_postofficebox": "Address 1: Post Office Box",
+      "address1_primarycontactname": "Address 1: Primary Contact Name",
+      "address1_shippingmethodcode": "Address 1: Shipping Method",
+      "address1_stateorprovince": "Address 1: State/Province",
+      "address1_telephone1": "Address Phone",
+      "address1_telephone2": "Address 1: Telephone 2",
+      "address1_telephone3": "Address 1: Telephone 3",
+      "address1_upszone": "Address 1: UPS Zone",
+      "address1_utcoffset": "Address 1: UTC Offset",
+      "address2_addresstypecode": "Address 2: Address Type",
+      "address2_city": "Address 2: City",
+      "address2_composite": "Address 2",
+      "address2_country": "Address 2: Country/Region",
+      "address2_county": "Address 2: County",
+      "address2_fax": "Address 2: Fax",
+      "address2_freighttermscode": "Address 2: Freight Terms",
+      "address2_latitude": "Address 2: Latitude",
+      "address2_line1": "Address 2: Street 1",
+      "address2_line2": "Address 2: Street 2",
+      "address2_line3": "Address 2: Street 3",
+      "address2_longitude": "Address 2: Longitude",
+      "address2_name": "Address 2: Name",
+      "address2_postalcode": "Address 2: ZIP/Postal Code",
+      "address2_postofficebox": "Address 2: Post Office Box",
+      "address2_primarycontactname": "Address 2: Primary Contact Name",
+      "address2_shippingmethodcode": "Address 2: Shipping Method",
+      "address2_stateorprovince": "Address 2: State/Province",
+      "address2_telephone1": "Address 2: Telephone 1",
+      "address2_telephone2": "Address 2: Telephone 2",
+      "address2_telephone3": "Address 2: Telephone 3",
+      "address2_upszone": "Address 2: UPS Zone",
+      "address2_utcoffset": "Address 2: UTC Offset",
       "adx_createdbyipaddress": "Created By (IP Address)",
       "adx_createdbyusername": "Created By (User Name)",
-      "adx_invitation_assigntoaccount": "邀请",
+      "adx_invitation_assigntoaccount": "Invitations",
       "adx_modifiedbyipaddress": "Modified By (IP Address)",
       "adx_modifiedbyusername": "Modified By (User Name)",
-      "aging30": "时效 30",
-      "aging30_base": "时效 30 (基础货币)",
-      "aging60": "时效 60",
-      "aging60_base": "时效 60 (基础货币)",
-      "aging90": "时效 90",
-      "aging90_base": "时效 90 (基础货币)",
-      "businesstypecode": "商业类型",
-      "contact_customer_accounts": "联系人 (contact_customer_accounts)",
-      "createdby": "创建者",
-      "createdon": "创建时间",
-      "createdonbehalfby": "创建者(代理)",
-      "creditlimit": "信用额度",
-      "creditlimit_base": "信用额度(基础货币)",
-      "creditonhold": "信用冻结",
-      "customersizecode": "客户规模",
-      "customertypecode": "关系类型",
-      "description": "说明",
-      "donotbulkemail": "不允许使用批量电子邮件",
-      "donotbulkpostalmail": "不允许使用批量邮件",
-      "donotemail": "不允许使用电子邮件",
-      "donotfax": "不允许使用传真",
-      "donotphone": "不允许电话联络",
-      "donotpostalmail": "不允许使用邮件",
-      "donotsendmm": "发送市场营销资料",
-      "emailaddress1": "电子邮件 (emailaddress1)",
-      "emailaddress2": "电子邮件地址 2",
-      "emailaddress3": "电子邮件地址 3",
-      "entityimage": "默认图像",
-      "entityimageid": "实体图像 ID",
-      "exchangerate": "汇率",
-      "fax": "传真 (fax)",
-      "followemail": "跟踪电子邮件活动",
-      "ftpsiteurl": "FTP 站点",
-      "importsequencenumber": "导入序列号",
-      "industrycode": "行业",
-      "lastonholdtime": "上一暂候时间",
-      "lastusedincampaign": "上次参与市场活动的日期",
-      "marketcap": "市值",
-      "marketcap_base": "市值(基础货币)",
-      "marketingonly": "仅限市场营销",
-      "masterid": "主 ID",
-      "merged": "合并",
-      "modifiedby": "修改者",
-      "modifiedon": "修改时间",
-      "modifiedonbehalfby": "修改者(代理)",
-      "msa_account_managingpartner": "客户 (msa_account_managingpartner)",
-      "msa_contact_managingpartner": "联系人 (msa_contact_managingpartner)",
+      "aging30": "Aging 30",
+      "aging30_base": "Aging 30 (Base)",
+      "aging60": "Aging 60",
+      "aging60_base": "Aging 60 (Base)",
+      "aging90": "Aging 90",
+      "aging90_base": "Aging 90 (Base)",
+      "businesstypecode": "Business Type",
+      "contact_customer_accounts": "Contacts (contact_customer_accounts)",
+      "createdby": "Created By",
+      "createdon": "Created On",
+      "createdonbehalfby": "Created By (Delegate)",
+      "creditlimit": "Credit Limit",
+      "creditlimit_base": "Credit Limit (Base)",
+      "creditonhold": "Credit Hold",
+      "customersizecode": "Customer Size",
+      "customertypecode": "Relationship Type",
+      "description": "Description",
+      "donotbulkemail": "Do not allow Bulk Emails",
+      "donotbulkpostalmail": "Do not allow Bulk Mails",
+      "donotemail": "Do not allow Emails",
+      "donotfax": "Do not allow Faxes",
+      "donotphone": "Do not allow Phone Calls",
+      "donotpostalmail": "Do not allow Mails",
+      "donotsendmm": "Send Marketing Materials",
+      "emailaddress1": "Email",
+      "emailaddress2": "Email Address 2",
+      "emailaddress3": "Email Address 3",
+      "entityimage": "Default Image",
+      "entityimageid": "Entity Image Id",
+      "exchangerate": "Exchange Rate",
+      "fax": "Fax",
+      "followemail": "Follow Email Activity",
+      "ftpsiteurl": "FTP Site",
+      "importsequencenumber": "Import Sequence Number",
+      "industrycode": "Industry",
+      "lastonholdtime": "Last On Hold Time",
+      "lastusedincampaign": "Last Date Included in Campaign",
+      "marketcap": "Market Capitalization",
+      "marketcap_base": "Market Capitalization (Base)",
+      "marketingonly": "Marketing Only",
+      "masterid": "Master ID",
+      "merged": "Merged",
+      "modifiedby": "Modified By",
+      "modifiedon": "Modified On",
+      "modifiedonbehalfby": "Modified By (Delegate)",
+      "msa_account_managingpartner": "Accounts (msa_account_managingpartner)",
+      "msa_contact_managingpartner": "Contacts (msa_contact_managingpartner)",
       "msa_managingpartnerid": "Managing Partner",
-      "name": "客户名称",
-      "numberofemployees": "员工人数",
-      "onholdtime": "暂候时间(分钟)",
-      "overriddencreatedon": "创建记录的时间",
-      "ownershipcode": "所有权",
-      "owningbusinessunit": "负责的业务部门",
-      "owningteam": "负责团队",
-      "owninguser": "负责人用户",
-      "parentaccountid": "上级单位",
-      "participatesinworkflow": "参与工作流",
-      "paymenttermscode": "付款方式",
-      "powerpagecomponent_mspp_webrole_account": "站点组件",
-      "preferredappointmentdaycode": "首选日",
-      "preferredappointmenttimecode": "首选时间",
-      "preferredcontactmethodcode": "首选联系方式",
-      "preferredsystemuserid": "首选用户",
-      "primarycontactid": "主要联系人",
-      "primarysatoriid": "主要 Satori ID",
-      "primarytwitterid": "主要 Twitter ID",
-      "processid": "流程",
-      "revenue": "年收入",
-      "revenue_base": "年收入(基础货币)",
-      "sharesoutstanding": "已发行股票",
-      "shippingmethodcode": "送货方式",
-      "sic": "行业编码",
-      "stageid": "(已弃用)流程阶段",
-      "statecode": "状态",
-      "statuscode": "状态描述",
-      "stockexchange": "证券交易所",
-      "telephone1": "主要电话",
-      "telephone2": "其他电话",
-      "telephone3": "电话 3",
-      "territorycode": "区域代码",
-      "tickersymbol": "股票代号",
-      "timespentbymeonemailandmeetings": "我所用的时间",
-      "timezoneruleversionnumber": "时区规则版本号",
-      "transactioncurrencyid": "货币",
-      "traversedpath": "(已弃用)遍历的路径",
-      "utcconversiontimezonecode": "UTC 转换时区代码",
-      "versionnumber": "版本号",
-      "websiteurl": "网站",
-      "yominame": "Yomi 客户名称"
+      "msft_datastate": "msft_DataState",
+      "name": "Account Name",
+      "numberofemployees": "Number of Employees",
+      "onholdtime": "On Hold Time (Minutes)",
+      "overriddencreatedon": "Record Created On",
+      "ownershipcode": "Ownership",
+      "owningbusinessunit": "Owning Business Unit",
+      "owningteam": "Owning Team",
+      "owninguser": "Owning User",
+      "parentaccountid": "Parent Account",
+      "participatesinworkflow": "Participates in Workflow",
+      "paymenttermscode": "Payment Terms",
+      "powerpagecomponent_mspp_webrole_account": "Site Components",
+      "preferredappointmentdaycode": "Preferred Day",
+      "preferredappointmenttimecode": "Preferred Time",
+      "preferredcontactmethodcode": "Preferred Method of Contact",
+      "preferredsystemuserid": "Preferred User",
+      "primarycontactid": "Primary Contact",
+      "primarysatoriid": "Primary Satori ID",
+      "primarytwitterid": "Primary Twitter ID",
+      "processid": "Process",
+      "revenue": "Annual Revenue",
+      "revenue_base": "Annual Revenue (Base)",
+      "sharesoutstanding": "Shares Outstanding",
+      "shippingmethodcode": "Shipping Method",
+      "sic": "SIC Code",
+      "stageid": "(Deprecated) Process Stage",
+      "statecode": "Status",
+      "statuscode": "Status Reason",
+      "stockexchange": "Stock Exchange",
+      "telephone1": "Main Phone",
+      "telephone2": "Other Phone",
+      "telephone3": "Telephone 3",
+      "territorycode": "Territory Code",
+      "tickersymbol": "Ticker Symbol",
+      "timespentbymeonemailandmeetings": "Time Spent by me",
+      "timezoneruleversionnumber": "Time Zone Rule Version Number",
+      "transactioncurrencyid": "Currency",
+      "traversedpath": "(Deprecated) Traversed Path",
+      "utcconversiontimezonecode": "UTC Conversion Time Zone Code",
+      "versionnumber": "Version Number",
+      "websiteurl": "Website",
+      "yominame": "Yomi Account Name"
     },
     "PreferredName": "Accounts",
     "Type": "NativeCDSDataSourceInfo"
@@ -199,25 +204,25 @@
     "TrimmedViewName": true,
     "Type": "ViewInfo",
     "ViewInfoNameMapping": {
-      "00000000-0000-0000-00aa-000000666000": "客户高级查找视图",
-      "00000000-0000-0000-00aa-000010001001": "我的可用客户",
-      "00000000-0000-0000-00aa-000010001002": "可用客户",
-      "00000000-0000-0000-00aa-000010001031": "停用客户",
-      "00000000-0000-0000-00aa-000010001200": "客户关联视图",
-      "15c63745-0a6e-4322-8416-a62c84d90279": "客户: 影响我们赢得的交易",
-      "49fb9771-09e1-4e70-b193-198752493577": "客户: 近 6 个月有市场活动响应",
-      "65ffaf9a-e8c5-432d-860b-32f841b00d87": "所有客户",
-      "a9af0ab8-861d-4cfa-92a5-c6281fed7fab": "客户查找视图",
-      "cfbcd7af-aee5-4e45-8ecc-c040d4020581": "客户: 近 3 个月无市场活动项目",
-      "d234426e-1f37-4944-9255-50e19b541c4c": "我的连接"
+      "00000000-0000-0000-00aa-000000666000": "Account Advanced Find View",
+      "00000000-0000-0000-00aa-000010001001": "My Active Accounts",
+      "00000000-0000-0000-00aa-000010001002": "Active Accounts",
+      "00000000-0000-0000-00aa-000010001031": "Inactive Accounts",
+      "00000000-0000-0000-00aa-000010001200": "Account Associated View",
+      "15c63745-0a6e-4322-8416-a62c84d90279": "Accounts: Influenced Deals That We Won",
+      "49fb9771-09e1-4e70-b193-198752493577": "Accounts: Responded to Campaigns in Last 6 Months",
+      "65ffaf9a-e8c5-432d-860b-32f841b00d87": "All Accounts",
+      "a9af0ab8-861d-4cfa-92a5-c6281fed7fab": "Account Lookup View",
+      "cfbcd7af-aee5-4e45-8ecc-c040d4020581": "Accounts: No Campaign Activities in Last 3 Months",
+      "d234426e-1f37-4944-9255-50e19b541c4c": "My Connections"
     }
   },
   {
-    "DisplayName": "类别 (Accounts)",
+    "DisplayName": "Category (Accounts)",
     "Name": "account_accountcategorycode",
     "OptionSetInfoNameMapping": {
-      "1": "首选客户",
-      "2": "标准"
+      "1": "Preferred Customer",
+      "2": "Standard"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -233,10 +238,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "分类 (Accounts)",
+    "DisplayName": "Classification (Accounts)",
     "Name": "account_accountclassificationcode",
     "OptionSetInfoNameMapping": {
-      "1": "默认值"
+      "1": "Default Value"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -252,10 +257,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "客户等级 (Accounts)",
+    "DisplayName": "Account Rating (Accounts)",
     "Name": "account_accountratingcode",
     "OptionSetInfoNameMapping": {
-      "1": "默认值"
+      "1": "Default Value"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -271,13 +276,13 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "地址 1: 地址类型 (Accounts)",
+    "DisplayName": "Address 1: Address Type (Accounts)",
     "Name": "account_address1_addresstypecode",
     "OptionSetInfoNameMapping": {
-      "1": "帐单邮寄地址",
-      "2": "送货地址",
-      "3": "主要地址",
-      "4": "其他"
+      "1": "Bill To",
+      "2": "Ship To",
+      "3": "Primary",
+      "4": "Other"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -293,11 +298,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "地址 1: 货运条款 (Accounts)",
+    "DisplayName": "Address 1: Freight Terms (Accounts)",
     "Name": "account_address1_freighttermscode",
     "OptionSetInfoNameMapping": {
       "1": "FOB",
-      "2": "免收费用"
+      "2": "No Charge"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -313,15 +318,16 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "地址 1: 送货方式 (Accounts)",
+    "DisplayName": "Address 1: Shipping Method (Accounts)",
     "Name": "account_address1_shippingmethodcode",
     "OptionSetInfoNameMapping": {
-      "1": "航空运输",
-      "10": "铁路运输",
-      "11": "海运",
-      "12": "送货上门",
-      "35": "特快专递",
-      "5": "邮递"
+      "1": "Airborne",
+      "2": "DHL",
+      "3": "FedEx",
+      "4": "UPS",
+      "5": "Postal Mail",
+      "6": "Full Load",
+      "7": "Will Call"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -337,10 +343,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "地址 2: 地址类型 (Accounts)",
+    "DisplayName": "Address 2: Address Type (Accounts)",
     "Name": "account_address2_addresstypecode",
     "OptionSetInfoNameMapping": {
-      "1": "默认值"
+      "1": "Default Value"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -356,10 +362,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "地址 2: 货运条款 (Accounts)",
+    "DisplayName": "Address 2: Freight Terms (Accounts)",
     "Name": "account_address2_freighttermscode",
     "OptionSetInfoNameMapping": {
-      "1": "默认值"
+      "1": "Default Value"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -375,10 +381,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "地址 2: 送货方式 (Accounts)",
+    "DisplayName": "Address 2: Shipping Method (Accounts)",
     "Name": "account_address2_shippingmethodcode",
     "OptionSetInfoNameMapping": {
-      "1": "默认值"
+      "1": "Default Value"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -394,10 +400,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "商业类型 (Accounts)",
+    "DisplayName": "Business Type (Accounts)",
     "Name": "account_businesstypecode",
     "OptionSetInfoNameMapping": {
-      "1": "默认值"
+      "1": "Default Value"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -413,11 +419,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "信用冻结 (Accounts)",
+    "DisplayName": "Credit Hold (Accounts)",
     "Name": "account_creditonhold",
     "OptionSetInfoNameMapping": {
-      "0": "否",
-      "1": "是"
+      "0": "No",
+      "1": "Yes"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -433,10 +439,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "客户规模 (Accounts)",
+    "DisplayName": "Customer Size (Accounts)",
     "Name": "account_customersizecode",
     "OptionSetInfoNameMapping": {
-      "1": "默认值"
+      "1": "Default Value"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -452,21 +458,21 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "关系类型 (Accounts)",
+    "DisplayName": "Relationship Type (Accounts)",
     "Name": "account_customertypecode",
     "OptionSetInfoNameMapping": {
-      "1": "竞争对手",
-      "10": "供货商",
-      "11": "供应商",
-      "12": "其他",
-      "2": "顾问",
-      "3": "客户",
-      "4": "投资者",
-      "5": "合作伙伴",
-      "6": "影响者",
-      "7": "新闻界",
-      "8": "目标客户",
-      "9": "经销商"
+      "1": "Competitor",
+      "10": "Supplier",
+      "11": "Vendor",
+      "12": "Other",
+      "2": "Consultant",
+      "3": "Customer",
+      "4": "Investor",
+      "5": "Partner",
+      "6": "Influencer",
+      "7": "Press",
+      "8": "Prospect",
+      "9": "Reseller"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -482,11 +488,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "不允许使用批量电子邮件 (Accounts)",
+    "DisplayName": "Do not allow Bulk Emails (Accounts)",
     "Name": "account_donotbulkemail",
     "OptionSetInfoNameMapping": {
-      "0": "允许",
-      "1": "不允许"
+      "0": "Allow",
+      "1": "Do Not Allow"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -502,11 +508,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "不允许使用批量邮件 (Accounts)",
+    "DisplayName": "Do not allow Bulk Mails (Accounts)",
     "Name": "account_donotbulkpostalmail",
     "OptionSetInfoNameMapping": {
-      "0": "否",
-      "1": "是"
+      "0": "No",
+      "1": "Yes"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -522,11 +528,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "不允许使用电子邮件 (Accounts)",
+    "DisplayName": "Do not allow Emails (Accounts)",
     "Name": "account_donotemail",
     "OptionSetInfoNameMapping": {
-      "0": "允许",
-      "1": "不允许"
+      "0": "Allow",
+      "1": "Do Not Allow"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -542,11 +548,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "不允许使用传真 (Accounts)",
+    "DisplayName": "Do not allow Faxes (Accounts)",
     "Name": "account_donotfax",
     "OptionSetInfoNameMapping": {
-      "0": "允许",
-      "1": "不允许"
+      "0": "Allow",
+      "1": "Do Not Allow"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -562,11 +568,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "不允许电话联络 (Accounts)",
+    "DisplayName": "Do not allow Phone Calls (Accounts)",
     "Name": "account_donotphone",
     "OptionSetInfoNameMapping": {
-      "0": "允许",
-      "1": "不允许"
+      "0": "Allow",
+      "1": "Do Not Allow"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -582,11 +588,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "不允许使用邮件 (Accounts)",
+    "DisplayName": "Do not allow Mails (Accounts)",
     "Name": "account_donotpostalmail",
     "OptionSetInfoNameMapping": {
-      "0": "允许",
-      "1": "不允许"
+      "0": "Allow",
+      "1": "Do Not Allow"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -602,11 +608,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "发送市场营销资料 (Accounts)",
+    "DisplayName": "Send Marketing Materials (Accounts)",
     "Name": "account_donotsendmm",
     "OptionSetInfoNameMapping": {
-      "0": "发送",
-      "1": "不发送"
+      "0": "Send",
+      "1": "Do Not Send"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -622,11 +628,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "跟踪电子邮件活动 (Accounts)",
+    "DisplayName": "Follow Email Activity (Accounts)",
     "Name": "account_followemail",
     "OptionSetInfoNameMapping": {
-      "0": "不允许",
-      "1": "允许"
+      "0": "Do Not Allow",
+      "1": "Allow"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -642,29 +648,42 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "行业 (Accounts)",
+    "DisplayName": "Industry (Accounts)",
     "Name": "account_industrycode",
     "OptionSetInfoNameMapping": {
-      "104": "公共管理与社会组织",
-      "16": "金融业",
-      "236": "批发和零售业",
-      "237": "文化、体育和娱乐业",
-      "243": "交通运输、仓储和邮政业",
-      "244": "信息传输、计算机服务和软件业",
-      "245": "租赁和商务服务业",
-      "246": "科学研究、技术服务和地质勘查业",
-      "247": "水利、环境和公共设施管理业",
-      "248": "居民服务和其他服务业",
-      "249": "国际组织",
-      "34": "农、林、牧、渔业",
-      "50": "采矿业",
-      "53": "建筑业",
-      "60": "制造业",
-      "61": "电力、燃气及水的生产和供应业",
-      "63": "住宿和餐饮业",
-      "67": "教育",
-      "68": "卫生、社会保障和社会福利业 ",
-      "82": "房地产业"
+      "1": "Accounting",
+      "10": "Distributors, Dispatchers and Processors",
+      "11": "Doctor's Offices and Clinics",
+      "12": "Durable Manufacturing",
+      "13": "Eating and Drinking Places",
+      "14": "Entertainment Retail",
+      "15": "Equipment Rental and Leasing",
+      "16": "Financial",
+      "17": "Food and Tobacco Processing",
+      "18": "Inbound Capital Intensive Processing",
+      "19": "Inbound Repair and Services",
+      "2": "Agriculture and Non-petrol Natural Resource Extraction",
+      "20": "Insurance",
+      "21": "Legal Services",
+      "22": "Non-Durable Merchandise Retail",
+      "23": "Outbound Consumer Service",
+      "24": "Petrochemical Extraction and Distribution",
+      "25": "Service Retail",
+      "26": "SIG Affiliations",
+      "27": "Social Services",
+      "28": "Special Outbound Trade Contractors",
+      "29": "Specialty Realty",
+      "3": "Broadcasting Printing and Publishing",
+      "30": "Transportation",
+      "31": "Utility Creation and Distribution",
+      "32": "Vehicle Retail",
+      "33": "Wholesale",
+      "4": "Brokers",
+      "5": "Building Supply Retail",
+      "6": "Business Services",
+      "7": "Consulting",
+      "8": "Consumer Services",
+      "9": "Design, Direction and Creative Management"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -683,8 +702,8 @@
     "DisplayName": "IsPrivate (Accounts)",
     "Name": "account_isprivate",
     "OptionSetInfoNameMapping": {
-      "0": "否",
-      "1": "是"
+      "0": "No",
+      "1": "Yes"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -700,11 +719,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "仅限市场营销 (Accounts)",
+    "DisplayName": "Marketing Only (Accounts)",
     "Name": "account_marketingonly",
     "OptionSetInfoNameMapping": {
-      "0": "否",
-      "1": "是"
+      "0": "No",
+      "1": "Yes"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -720,11 +739,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "合并 (Accounts)",
+    "DisplayName": "Merged (Accounts)",
     "Name": "account_merged",
     "OptionSetInfoNameMapping": {
-      "0": "否",
-      "1": "是"
+      "0": "No",
+      "1": "Yes"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -740,13 +759,13 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "所有权 (Accounts)",
+    "DisplayName": "Ownership (Accounts)",
     "Name": "account_ownershipcode",
     "OptionSetInfoNameMapping": {
-      "1": "公共事业",
-      "2": "私人公司",
-      "3": "子公司",
-      "4": "其他"
+      "1": "Public",
+      "2": "Private",
+      "3": "Subsidiary",
+      "4": "Other"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -762,11 +781,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "参与工作流 (Accounts)",
+    "DisplayName": "Participates in Workflow (Accounts)",
     "Name": "account_participatesinworkflow",
     "OptionSetInfoNameMapping": {
-      "0": "否",
-      "1": "是"
+      "0": "No",
+      "1": "Yes"
     },
     "OptionSetIsBooleanValued": true,
     "OptionSetIsGlobal": false,
@@ -782,13 +801,13 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "付款方式 (Accounts)",
+    "DisplayName": "Payment Terms (Accounts)",
     "Name": "account_paymenttermscode",
     "OptionSetInfoNameMapping": {
-      "1": "N30",
-      "2": "2/10 N30",
-      "3": "N45",
-      "4": "N60"
+      "1": "Net 30",
+      "2": "2% 10, Net 30",
+      "3": "Net 45",
+      "4": "Net 60"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -804,16 +823,16 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "首选日 (Accounts)",
+    "DisplayName": "Preferred Day (Accounts)",
     "Name": "account_preferredappointmentdaycode",
     "OptionSetInfoNameMapping": {
-      "0": "星期日",
-      "1": "星期一",
-      "2": "星期二",
-      "3": "星期三",
-      "4": "星期四",
-      "5": "星期五",
-      "6": "星期六"
+      "0": "Sunday",
+      "1": "Monday",
+      "2": "Tuesday",
+      "3": "Wednesday",
+      "4": "Thursday",
+      "5": "Friday",
+      "6": "Saturday"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -829,12 +848,12 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "首选时间 (Accounts)",
+    "DisplayName": "Preferred Time (Accounts)",
     "Name": "account_preferredappointmenttimecode",
     "OptionSetInfoNameMapping": {
-      "1": "上午",
-      "2": "下午",
-      "3": "晚上"
+      "1": "Morning",
+      "2": "Afternoon",
+      "3": "Evening"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -850,14 +869,14 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "首选联系方式 (Accounts)",
+    "DisplayName": "Preferred Method of Contact (Accounts)",
     "Name": "account_preferredcontactmethodcode",
     "OptionSetInfoNameMapping": {
-      "1": "任何方式",
-      "2": "电子邮件",
-      "3": "电话",
-      "4": "传真",
-      "5": "邮件"
+      "1": "Any",
+      "2": "Email",
+      "3": "Phone",
+      "4": "Fax",
+      "5": "Mail"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -873,10 +892,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "送货方式 (Accounts)",
+    "DisplayName": "Shipping Method (Accounts)",
     "Name": "account_shippingmethodcode",
     "OptionSetInfoNameMapping": {
-      "1": "默认值"
+      "1": "Default Value"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -892,11 +911,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "状态 (Accounts)",
+    "DisplayName": "Status (Accounts)",
     "Name": "account_statecode",
     "OptionSetInfoNameMapping": {
-      "0": "可用",
-      "1": "停用"
+      "0": "Active",
+      "1": "Inactive"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -912,11 +931,11 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "状态描述 (Accounts)",
+    "DisplayName": "Status Reason (Accounts)",
     "Name": "account_statuscode",
     "OptionSetInfoNameMapping": {
-      "1": "可用",
-      "2": "停用"
+      "1": "Active",
+      "2": "Inactive"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -932,10 +951,10 @@
     "Type": "OptionSetInfo"
   },
   {
-    "DisplayName": "区域代码 (Accounts)",
+    "DisplayName": "Territory Code (Accounts)",
     "Name": "account_territorycode",
     "OptionSetInfoNameMapping": {
-      "1": "默认值"
+      "1": "Default Value"
     },
     "OptionSetIsBooleanValued": false,
     "OptionSetIsGlobal": false,
@@ -963,10 +982,6 @@
       "OptionSetReferenceItem0": {
         "OptionSetReferenceColumnName": "msft_datastate",
         "OptionSetReferenceEntityName": "Accounts"
-      },
-      "OptionSetReferenceItem1": {
-        "OptionSetReferenceColumnName": "msft_datastate",
-        "OptionSetReferenceEntityName": "Tasks"
       }
     },
     "OptionSetTypeKey": "PicklistType",
