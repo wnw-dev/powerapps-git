@@ -7,20 +7,20 @@
 
     "BrowseGallery1 As gallery.'BrowseLayout_Vertical_OneTextVariant_ver5.0'":
         DelayItemLoading: =true
-        Height: =Parent.Height - Self.Y
+        Height: =636
         Items: =SortByColumns(Search(Accounts, TextSearchBox1.Text, 'Account Name'), "name", If(SortDescending1, SortOrder.Descending, SortOrder.Ascending))
         Layout: =Layout.Vertical
         LoadingSpinner: =LoadingSpinner.Data
         ShowScrollbar: =false
         TemplatePadding: =0
-        TemplateSize: =80
+        TemplateSize: =361
         Width: =Parent.Width
         Y: =TextSearchBox1.Y + TextSearchBox1.Height
         ZIndex: =1
 
         Title2 As label:
             FontWeight: =If(ThisItem.IsSelected, FontWeight.Semibold, FontWeight.Normal)
-            Height: =Self.Size * 1.8
+            Height: =79.96875
             OnSelect: =Select(Parent)
             PaddingBottom: =0
             PaddingLeft: =0
@@ -62,6 +62,14 @@
             Visible: =ThisItem.IsSelected
             Width: =4
             ZIndex: =4
+
+        Circle1 As circle:
+            Height: =80
+            OnSelect: =Select(Parent)
+            Width: =80
+            X: =253
+            Y: =155
+            ZIndex: =5
 
     LblAppName1 As label:
         Height: =88
