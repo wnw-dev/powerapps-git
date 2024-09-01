@@ -2,17 +2,46 @@
   "QualifiedValues": [
     {
       "Kind": "default.cds_account_forms",
+      "Namespace": "Accounts (表單)",
+      "Values": {
+        "互動體驗的客戶": "a72c7955-442b-4ea4-9499-b10cd18b4256",
+        "社群網路基本資料": "2205c86d-ed88-4a2f-a447-3b86a8781f2e",
+        "客戶": "8448b78f-8f42-454e-8e2a-f8196b0419af",
+        "客戶卡片": "b028db32-3619-48a5-ac51-cf3f947b0ef3",
+        "客戶卡片表單": "cccff382-2b92-467e-bf1b-3db179512af8",
+        "客戶快速建立": "c9e7ec2d-efca-4e4c-b3e3-f63c4bba5e4b",
+        "客戶參照面板": "098ae145-1567-41ec-8398-86dbaac70c9b",
+        "客戶階層圖標表單": "69cff312-cfb6-4289-9631-249ab85d2c62",
+        "資訊": "b053a39a-041a-4356-acef-ddf00182762b"
+      }
+    },
+    {
+      "Kind": "default.cds_crb94_client_records_forms",
+      "Namespace": "Client_records (表單)",
+      "Values": {
+        "資訊": "62ba009f-2617-4a2c-b8c6-eab0ad4c6517"
+      }
+    },
+    {
+      "Kind": "default.cds_cr3ae_newtable_forms",
+      "Namespace": "TESTS (表單)",
+      "Values": {
+        "信息": "eb2e5e17-64a8-4f06-a0ee-a6e12ab06659"
+      }
+    },
+    {
+      "Kind": "default.cds_account_forms",
       "Namespace": "Accounts (Forms)",
       "Values": {
         "交互式体验的客户": "a72c7955-442b-4ea4-9499-b10cd18b4256",
-        "信息": "b053a39a-041a-4356-acef-ddf00182762b",
-        "客户卡": "b028db32-3619-48a5-ac51-cf3f947b0ef3",
-        "客户卡窗体": "cccff382-2b92-467e-bf1b-3db179512af8",
-        "客户引用面板": "098ae145-1567-41ec-8398-86dbaac70c9b",
         "帐户": "8448b78f-8f42-454e-8e2a-f8196b0419af",
         "帐户层次结构磁贴窗体": "69cff312-cfb6-4289-9631-249ab85d2c62",
         "帐户快速创建": "c9e7ec2d-efca-4e4c-b3e3-f63c4bba5e4b",
-        "社交个人资料": "2205c86d-ed88-4a2f-a447-3b86a8781f2e"
+        "社交个人资料": "2205c86d-ed88-4a2f-a447-3b86a8781f2e",
+        "信息": "b053a39a-041a-4356-acef-ddf00182762b",
+        "客户引用面板": "098ae145-1567-41ec-8398-86dbaac70c9b",
+        "客户卡": "b028db32-3619-48a5-ac51-cf3f947b0ef3",
+        "客户卡窗体": "cccff382-2b92-467e-bf1b-3db179512af8"
       }
     },
     {
@@ -30,39 +59,22 @@
       }
     },
     {
-      "Kind": "default.cds_account_forms",
-      "Namespace": "Accounts (表單)",
-      "Values": {
-        "互動體驗的客戶": "a72c7955-442b-4ea4-9499-b10cd18b4256",
-        "客戶": "8448b78f-8f42-454e-8e2a-f8196b0419af",
-        "客戶卡片": "b028db32-3619-48a5-ac51-cf3f947b0ef3",
-        "客戶卡片表單": "cccff382-2b92-467e-bf1b-3db179512af8",
-        "客戶參照面板": "098ae145-1567-41ec-8398-86dbaac70c9b",
-        "客戶快速建立": "c9e7ec2d-efca-4e4c-b3e3-f63c4bba5e4b",
-        "客戶階層圖標表單": "69cff312-cfb6-4289-9631-249ab85d2c62",
-        "社群網路基本資料": "2205c86d-ed88-4a2f-a447-3b86a8781f2e",
-        "資訊": "b053a39a-041a-4356-acef-ddf00182762b"
-      }
-    },
-    {
       "Kind": "default.cds_task_forms",
       "Namespace": "Tasks (Forms)",
       "Values": {
         "交互式体验的任务": "d5b4a1b2-de4f-4f86-8768-b0730001e7d1",
         "任务​​": "16654191-19ad-48ca-9e46-c4b4fbdad76f",
-        "任务卡窗体": "5e9725e4-5449-4363-8c1c-5ae71767af34",
         "任务引用面板": "81a89014-442c-44ad-9725-4077426a7fee",
+        "任务卡窗体": "5e9725e4-5449-4363-8c1c-5ae71767af34",
         "任务快速创建窗体。": "a1c8a6dc-8804-4019-9c78-7dbe86560ea1",
-        "信息": "b62ce022-cc0f-4c8c-bb29-21948f70dc74",
-        "快速窗体": "1fac7e2e-0b1c-4b6c-ab92-8af0f92dbdbc"
+        "快速窗体": "1fac7e2e-0b1c-4b6c-ab92-8af0f92dbdbc",
+        "信息": "b62ce022-cc0f-4c8c-bb29-21948f70dc74"
       }
     },
     {
-      "Kind": "default.cds_crb94_client_records_forms",
-      "Namespace": "Client_records (表單)",
-      "Values": {
-        "資訊": "62ba009f-2617-4a2c-b8c6-eab0ad4c6517"
-      }
+      "Kind": "default.cds_cr5f5_testenviroment_forms",
+      "Namespace": "TEST ENVIROMENT (表單)",
+      "Values": {}
     }
   ]
 }
