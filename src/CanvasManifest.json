@@ -114,10 +114,10 @@
     "DocumentType": "App",
     "EnableInstrumentation": false,
     "FileID": "646c602b-2aaa-497a-a291-f941bdc61125",
-    "Id": "646c602b-2aaa-497a-a291-f941bdc61125",
+    "Id": "f945abb8-1456-444d-a10f-ed2ec78e3660",
     "InstrumentationKey": "",
     "ManualOfflineProfileId": "",
-    "Name": "canvas-dataverse-tutorial",
+    "Name": "canvas-dataverse-tutorial.msapp",
     "OriginatingVersion": "1.343",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
@@ -137,6 +137,7 @@
     "BrowseScreen",
     "FormScreen",
     "Screen1",
-    "Screen2"
+    "Screen2",
+    "TestScreen"
   ]
 }

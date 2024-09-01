@@ -1,0 +1,71 @@
+TestScreen As screen:
+
+    Gallery2 As gallery.galleryVertical:
+        DelayItemLoading: =true
+        Items: ='New tables'
+        Layout: =Layout.Vertical
+        LoadingSpinner: =LoadingSpinner.Data
+        TemplateSize: =If(Self.Layout = Layout.Horizontal, Min(280, Self.Width - 60), Min(280, Self.Height - 60))
+        Y: =40
+        ZIndex: =1
+
+        Label2 As label:
+            Height: =56
+            OnSelect: =Select(Parent)
+            Size: =21
+            Text: ="Age"
+            Width: =71
+            X: =40
+            Y: =40
+            ZIndex: =1
+
+        Label2_1 As label:
+            Height: =56
+            OnSelect: =Select(Parent)
+            Size: =21
+            Text: ="Name"
+            Width: =96
+            X: =40
+            Y: =96
+            ZIndex: =2
+
+        Label2_2 As label:
+            Height: =56
+            OnSelect: =Select(Parent)
+            Size: =21
+            Text: ="Address"
+            Width: =118
+            X: =40
+            Y: =152
+            ZIndex: =3
+
+        Label2_3 As label:
+            Height: =56
+            OnSelect: =Select(Parent)
+            Size: =21
+            Text: =ThisItem.Client_Age
+            Width: =71
+            X: =201
+            Y: =40
+            ZIndex: =4
+
+        Label2_4 As label:
+            Height: =56
+            OnSelect: =Select(Parent)
+            Size: =21
+            Text: =ThisItem.Client_Name
+            Width: =115
+            X: =201
+            Y: =96
+            ZIndex: =5
+
+        Label2_5 As label:
+            Height: =56
+            OnSelect: =Select(Parent)
+            Size: =21
+            Text: =ThisItem.Client_Address
+            Width: =136
+            X: =201
+            Y: =152
+            ZIndex: =6
+
