@@ -61,11 +61,6 @@
       }
     },
     {
-      "Kind": "default.cds_cr5f5_testenv2_forms",
-      "Namespace": "TEST ENV2 (表單)",
-      "Values": {}
-    },
-    {
       "Kind": "default.cds_account_forms",
       "Namespace": "Accounts (Forms)",
       "Values": {
@@ -130,6 +125,11 @@
         "快速窗体": "1fac7e2e-0b1c-4b6c-ab92-8af0f92dbdbc",
         "信息": "b62ce022-cc0f-4c8c-bb29-21948f70dc74"
       }
+    },
+    {
+      "Kind": "default.cds_cr5f5_testenv2_forms",
+      "Namespace": "TEST ENV2 (表單)",
+      "Values": {}
     }
   ]
 }
