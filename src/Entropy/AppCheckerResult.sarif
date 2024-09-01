@@ -925,17 +925,17 @@
               "id": "app-InefficientDelayLoading",
               "messageStrings": {
                 "issue": {
-                  "text": "延遲載入的效率低下"
+                  "text": "Inefficient delay loading"
                 }
               },
               "properties": {
                 "componentType": "app",
                 "howToFix": [
-                  "使用變數、集合和導覽內容，改為跨畫面共用狀態。"
+                  "Use variables, collections, and navigation context to share state across screens instead."
                 ],
                 "level": "Medium",
                 "primaryCategory": "performance",
-                "whyFix": "若控制項參考了其他畫面中的控制項，就會使應用程式載入及巡覽的速度變慢。執行此動作可強制應用程式立即載入其他畫面，而不用等到使用者巡覽到該畫面才載入。"
+                "whyFix": "Controls that reference controls on other screens can slow down app loading and navigation. Doing this may force the app to load the other screens immediately, rather than waiting until the user navigates to that screen."
               }
             }
           ],

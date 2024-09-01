@@ -1,0 +1,95 @@
+[
+  {
+    "CdsFCBContext": "{\"FileType\":true,\"ImageExternalStorage\":true}",
+    "EntitySetName": "cr5f5_test_table_twos",
+    "IsHidden": false,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "LogicalName": "cr5f5_test_table_two",
+    "Name": "Test_Table_Twos",
+    "NativeCDSDataSourceInfoNameMapping": {
+      "cr5f5_test_table_two_AsyncOperations": "系統作業",
+      "cr5f5_test_table_two_BulkDeleteFailures": "大量刪除失敗",
+      "cr5f5_test_table_two_DuplicateBaseRecord": "重複資料記錄 (cr5f5_test_table_two_DuplicateBaseRecord)",
+      "cr5f5_test_table_two_DuplicateMatchingRecord": "重複資料記錄 (cr5f5_test_table_two_DuplicateMatchingRecord)",
+      "cr5f5_test_table_two_MailboxTrackingFolders": "信箱自動追蹤資料夾",
+      "cr5f5_test_table_two_PrincipalObjectAttributeAccesses": "欄位共用",
+      "cr5f5_test_table_two_ProcessSession": "程序工作階段",
+      "cr5f5_test_table_two_SyncErrors": "同步處理錯誤",
+      "cr5f5_test_table_twoid": "Test_Table_Two",
+      "cr5f5_testaddress": "testNumber",
+      "cr5f5_testid": "testID",
+      "cr5f5_testname": "testName",
+      "createdby": "建立者",
+      "createdon": "建立時間",
+      "createdonbehalfby": "建立者 (代理人)",
+      "importsequencenumber": "匯入序號",
+      "modifiedby": "修改者",
+      "modifiedon": "修改日期",
+      "modifiedonbehalfby": "修改者 (代理人)",
+      "organizationid": "組織識別碼",
+      "overriddencreatedon": "記錄建立時間",
+      "statecode": "狀態",
+      "statuscode": "狀態原因",
+      "timezoneruleversionnumber": "時區規則版本號碼",
+      "utcconversiontimezonecode": "UTC 轉換時區代碼",
+      "versionnumber": "版本號碼"
+    },
+    "PreferredName": "Test_Table_Twos",
+    "Type": "NativeCDSDataSourceInfo"
+  },
+  {
+    "DisplayName": "Test_Table_Twos (Views)",
+    "Name": "_cr5f5_test_table_two_views",
+    "RelatedEntityName": "Test_Table_Twos",
+    "TrimmedViewName": true,
+    "Type": "ViewInfo",
+    "ViewInfoNameMapping": {
+      "141b5deb-3d55-4f34-87c1-34461af3f443": "Test_Table_Two相關檢視",
+      "9c8e61f7-043d-45c2-8c6b-f75a3d8c5c2b": "Test_Table_Two查詢檢視表",
+      "c63395ee-901a-4193-a8b7-7abac9ec41a2": "使用中 Test_Table_Twos",
+      "edcdd1e7-6afb-4a62-a4c8-9477acd71f74": "Test_Table_Two進階尋找檢視表",
+      "f6f25c81-a19a-4697-95a0-65fbb8246782": "非使用中 Test_Table_Twos"
+    }
+  },
+  {
+    "DisplayName": "狀態 (Test_Table_Twos)",
+    "Name": "cr5f5_test_table_two_statecode",
+    "OptionSetInfoNameMapping": {
+      "0": "使用中",
+      "1": "非使用中"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statecode",
+        "OptionSetReferenceEntityName": "Test_Table_Twos"
+      }
+    },
+    "OptionSetTypeKey": "StateType",
+    "RelatedColumnInvariantName": "statecode",
+    "RelatedEntityName": "Test_Table_Twos",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "狀態原因 (Test_Table_Twos)",
+    "Name": "cr5f5_test_table_two_statuscode",
+    "OptionSetInfoNameMapping": {
+      "1": "使用中",
+      "2": "非使用中"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statuscode",
+        "OptionSetReferenceEntityName": "Test_Table_Twos"
+      }
+    },
+    "OptionSetTypeKey": "StatusType",
+    "RelatedColumnInvariantName": "statuscode",
+    "RelatedEntityName": "Test_Table_Twos",
+    "Type": "OptionSetInfo"
+  }
+]

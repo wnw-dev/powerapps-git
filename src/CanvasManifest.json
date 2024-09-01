@@ -131,7 +131,7 @@
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
-    "UserLocale": "zh-TW"
+    "UserLocale": "en-US"
   },
   "ScreenOrder": [
     "BrowseScreen",
