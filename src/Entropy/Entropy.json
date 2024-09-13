@@ -108,18 +108,18 @@
     "Subtitle1": 63,
     "Subtitle2": 46,
     "Subtitle4": 54,
-    "Subtitle4_1": 116,
+    "Subtitle4_1": 53,
     "TestScreen": 67,
     "TextSearchBox1": 83,
     "Title1": 62,
     "Title2": 90,
     "Title3": 45,
-    "Title5": 53,
+    "Title5": 52,
     "导入序列号_DataCard1": 111
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "09/01/2024 09:02:17",
+  "HeaderLastSavedDateTimeUTC": "09/13/2024 04:08:08",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -470,7 +470,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.7573313,
+    "AnalysisLoadTime": 1.7981717,
     "ControlCount": {
       "button": 1,
       "circle": 1,
@@ -478,14 +478,14 @@
       "gallery": 5,
       "galleryTemplate": 5,
       "icon": 11,
-      "image": 3,
+      "image": 2,
       "label": 47,
       "rectangle": 11,
       "screen": 6,
       "text": 11,
       "typedDataCard": 10
     },
-    "DeserializationLoadTime": 2.0316449
+    "DeserializationLoadTime": 5.0944479
   },
   "WasLocalDatabaseReferencesEmpty": false
 }

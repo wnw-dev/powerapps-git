@@ -11,6 +11,7 @@
           "base64Encoded": {
             "Attributes": null,
             "IsCollection": false,
+            "RequiredAttributes": null,
             "SchemaName": null,
             "Title": "Document",
             "Type": "string/byte"
@@ -29,6 +30,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -40,6 +42,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -47,6 +50,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -54,6 +58,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -61,12 +66,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -74,18 +81,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "Address street",
                 "Type": "object"
@@ -95,6 +105,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -106,6 +117,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -113,6 +125,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -120,6 +133,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -127,12 +141,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -140,18 +156,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "",
                 "Type": "object"
@@ -161,6 +180,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -172,6 +192,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -179,6 +200,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -186,6 +208,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -193,12 +216,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -206,18 +231,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "Company name",
                 "Type": "object"
@@ -227,6 +255,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -238,6 +267,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -245,6 +275,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -252,6 +283,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -259,12 +291,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -272,18 +306,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "",
                 "Type": "object"
@@ -293,6 +330,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -304,6 +342,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -311,6 +350,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -318,6 +358,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -325,12 +366,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -338,18 +381,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "",
                 "Type": "object"
@@ -359,6 +405,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -370,6 +417,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -377,6 +425,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -384,6 +433,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -391,12 +441,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -404,18 +456,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "",
                 "Type": "object"
@@ -425,6 +480,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -436,6 +492,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -443,6 +500,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -450,6 +508,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -457,12 +516,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -470,18 +531,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "",
                 "Type": "object"
@@ -491,6 +555,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -502,6 +567,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -509,6 +575,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -516,6 +583,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -523,12 +591,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -536,18 +606,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "First name",
                 "Type": "object"
@@ -557,6 +630,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -568,6 +642,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -575,6 +650,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -582,6 +658,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -589,12 +666,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -602,18 +681,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "Full address",
                 "Type": "object"
@@ -623,6 +705,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -634,6 +717,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -641,6 +725,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -648,6 +733,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -655,12 +741,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -668,18 +756,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "Full name",
                 "Type": "object"
@@ -689,6 +780,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -700,6 +792,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -707,6 +800,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -714,6 +808,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -721,12 +816,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -734,18 +831,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "Last name",
                 "Type": "object"
@@ -755,6 +855,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -766,6 +867,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -773,6 +875,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -780,6 +883,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -787,12 +891,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -800,18 +906,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "Mobile phone",
                 "Type": "object"
@@ -821,6 +930,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -832,6 +942,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -839,6 +950,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -846,6 +958,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -853,12 +966,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -866,18 +981,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "",
                 "Type": "object"
@@ -887,6 +1005,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -898,6 +1017,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -905,6 +1025,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -912,6 +1033,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -919,12 +1041,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -932,18 +1056,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "",
                 "Type": "object"
@@ -953,6 +1080,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -964,6 +1092,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -971,6 +1100,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -978,6 +1108,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -985,12 +1116,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -998,18 +1131,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "",
                 "Type": "object"
@@ -1019,6 +1155,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -1030,6 +1167,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1037,6 +1175,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1044,6 +1183,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1051,12 +1191,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -1064,18 +1206,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "",
                 "Type": "object"
@@ -1085,6 +1230,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -1096,6 +1242,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1103,6 +1250,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1110,6 +1258,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1117,12 +1266,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -1130,18 +1281,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "",
                 "Type": "object"
@@ -1151,6 +1305,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -1162,6 +1317,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1169,6 +1325,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1176,6 +1333,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1183,12 +1341,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -1196,18 +1356,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "",
                 "Type": "object"
@@ -1217,6 +1380,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -1228,6 +1392,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1235,6 +1400,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1242,6 +1408,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1249,12 +1416,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -1262,18 +1431,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "",
                 "Type": "object"
@@ -1283,6 +1455,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -1294,6 +1467,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1301,6 +1475,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1308,6 +1483,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1315,12 +1491,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -1328,18 +1506,21 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "",
                 "Type": "object"
@@ -1349,6 +1530,7 @@
                   "FieldType": {
                     "Attributes": null,
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "string"
@@ -1360,6 +1542,7 @@
                           "Height": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1367,6 +1550,7 @@
                           "Left": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1374,6 +1558,7 @@
                           "Top": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
@@ -1381,12 +1566,14 @@
                           "Width": {
                             "Attributes": null,
                             "IsCollection": false,
+                            "RequiredAttributes": null,
                             "SchemaName": null,
                             "Title": "",
                             "Type": "number"
                           }
                         },
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "object"
@@ -1394,24 +1581,28 @@
                       "Text": {
                         "Attributes": null,
                         "IsCollection": false,
+                        "RequiredAttributes": null,
                         "SchemaName": null,
                         "Title": "",
                         "Type": "string"
                       }
                     },
                     "IsCollection": false,
+                    "RequiredAttributes": null,
                     "SchemaName": null,
                     "Title": "",
                     "Type": "object"
                   }
                 },
                 "IsCollection": false,
+                "RequiredAttributes": null,
                 "SchemaName": null,
                 "Title": "Work phone",
                 "Type": "object"
               }
             },
             "IsCollection": false,
+            "RequiredAttributes": null,
             "SchemaName": null,
             "Title": "",
             "Type": "object"
